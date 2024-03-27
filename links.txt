@@ -1,0 +1,10 @@
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cl.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kr.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/jp.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/au.m3u
