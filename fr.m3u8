@@ -7,12 +7,6 @@ https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 https://live.creacast.com/albi-tv-ch1/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenneReunion.fr",Antenne Réunion (720p) [Not 24/7]
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
-#EXTINF:-1 tvg-id="BblackAfrica.fr",Bblack! Africa
-http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
-#EXTINF:-1 tvg-id="BblackCaribbean.fr",Bblack! Caribbean
-http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
-#EXTINF:-1 tvg-id="BblackClassik.fr",Bblack! Classik
-http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 #EXTINF:-1 tvg-id="BIPTV.fr",BIP TV (480p) [Not 24/7]
 https://biptv.tv/live/biptvstream_orig/index.m3u8
 #EXTINF:-1 tvg-id="Canal32.fr",Canal 32 (1080p)
@@ -89,6 +83,3 @@ https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
 https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
 #EXTINF:-1 tvg-id="VosgesTV.fr",Vosges Télévision (576p) [Not 24/7]
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
-#EXTINF:-1 tvg-id="TF1.fr",TF1 (720p) [Geo-blocked]
-#EXTVLCOPT:http-referrer=https://github.com/BG47510/sniftv/tree/main
-https://raw.githubusercontent.com/BG47510/sniftv/main/bouy/t1.m3u8

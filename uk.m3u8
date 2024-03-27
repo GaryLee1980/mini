@@ -47,6 +47,8 @@ https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 #EXTINF:-1 tvg-id="IonTV.uk",iON TV (576p)
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
+#EXTINF:-1 tvg-id="IqraBangla.uk",Iqra Bangla (720p)
+https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="IranInternational.uk",Iran International (1080p)
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="IranInternational.uk",Iran International (1080p)
@@ -135,3 +137,5 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="Bridezillas.uk",Bridezillas
 https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8
+#EXTINF:-1 tvg-id="CBeebiesAsia.uk",CBeebies Asia (720p)
+http://198.16.100.90:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
