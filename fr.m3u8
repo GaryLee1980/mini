@@ -27,8 +27,8 @@ https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
 https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="HANDICAPTV.fr",HANDICAP TV France
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
-#EXTINF:-1 tvg-id="LEquipe.fr",L'Equipe
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
+#EXTINF:-1 tvg-id="KTO.fr",KTO (404p) [Not 24/7]
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-id="LEspritSorcierTV.fr",L'Esprit Sorcier TV (1080p)
 https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr",Le Figaro IDF
@@ -83,6 +83,3 @@ https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
 https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
 #EXTINF:-1 tvg-id="VosgesTV.fr",Vosges Télévision (576p) [Not 24/7]
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
-#EXTINF:-1 tvg-id="TF1.fr",TF1 (720p) [Geo-blocked]
-#EXTVLCOPT:http-referrer=https://github.com/BG47510/sniftv/tree/main
-https://raw.githubusercontent.com/BG47510/sniftv/main/bouy/t1.m3u8
