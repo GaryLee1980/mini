@@ -167,10 +167,6 @@ https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8
 #EXTINF:-1 tvg-id="",Big City TV
 https://bigcitytv.playout.vju.tv/bigcitytv/main.m3u8
-#EXTINF:-1 tvg-id="BizTV.us",Biz TV (1080p)
-https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
-#EXTINF:-1 tvg-id="BizTV.us",Biz TV (576p) [Not 24/7]
-https://gideommd.mmdlive.lldns.net/gideommd/46c072b287224782a4d4ce93c3646589/manifest.m3u8
 #EXTINF:-1 tvg-id="BloombergQuicktake.us",Bloomberg Quicktake (1080p)
 https://bloomberg.com/media-manifest/streams/qt.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAsia.hk",Bloomberg TV Asia (720p)
@@ -225,8 +221,6 @@ https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/7345
 https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-id="CBNNews.us",CBN News National (1080p)
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us",CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.us",Channel Yek (720p)
 https://ch1hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Charge.us",Charge! (720p)
@@ -571,8 +565,6 @@ https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/liv
 https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/index.m3u8
 #EXTINF:-1 tvg-id="SadaEHaqTV.us",Sada-E-Haq TV (720p)
 https://live.relentlessinnovations.net:1936/sadaehaq/sadaehaq/playlist.m3u8
-#EXTINF:-1 tvg-id="ScientologyNetwork.us",Scientology Network (1080p)
-https://stream6.scientology.org/master.m3u8
 #EXTINF:-1 tvg-id="Shabakeh7.us",Shabakeh 7 (576p)
 https://t.northtelecom.org/Shabakeh.m3u8
 #EXTINF:-1 tvg-id="ShalomAmerica.us",Shalom TV (720p) [Not 24/7]
@@ -581,12 +573,12 @@ https://livestreamcdn.net:444/ShalomTV/ShalomTV/playlist.m3u8
 https://aos01-evine.secure.footprint.net/evine/cleanfeed/master.m3u8
 #EXTINF:-1 tvg-id="ShopLC.us",Shop LC (1080p)
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
-#EXTINF:-1 tvg-id="ShopLC.us",Shop LC (1080p)
-https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8
 #EXTINF:-1 tvg-id="ShoutFactoryTV.us",Shout! Factory TV (1080p)
 https://shoutfactory-shoutfactory-zype.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SkwadPlay.us",SKWAD (1080p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
+#EXTINF:-1 tvg-id="",Sky Michigan TV
+https://cdn-unified-hls.streamspot.com/ingest1/6ec6f5ba47/playlist.m3u8?origin=1
 #EXTINF:-1 tvg-id="SpiritTV.us",Spirit TV (720p) [Not 24/7]
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 tvg-id="StocktonGovTV.us",Stockton GovTV (Stockton CA) (720p)
@@ -675,6 +667,8 @@ https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us",Three Angels Broadcasting Network Praise Him Music Network (3ABN) (720p)
 https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
+#EXTINF:-1 tvg-id="TinTV.us",Tin TV (720p) [Not 24/7]
+https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
 #EXTINF:-1 tvg-id="TMTV.us",TM TV (720p)
 https://hls.tmtv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TNTEast.us",TNT East (720p) [Geo-blocked]
@@ -721,6 +715,8 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="UnivisionEast.us",Univision East [Geo-blocked]
 https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?t1=
+#EXTINF:-1 tvg-id="VallenatoInternacional.us",Vallenato Internacional (720p) [Not 24/7]
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1 tvg-id="VelayatTVNetwork.us",Velayat TV (480p)
 https://nl.livekadeh.com/hls2/velayattv.m3u8
 #EXTINF:-1 tvg-id="VICETV.us",Vice East
@@ -813,8 +809,6 @@ http://143.244.60.30/NICKELODEON/index.m3u8
 https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8
 #EXTINF:-1 tvg-id="MBC1USA.us",MBC 1
 https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index.m3u8
-#EXTINF:-1 tvg-id="FoxBusinessNetwork.us",FOX Business (1080p)
-http://41.205.93.154/FOXBUSINESS/index.m3u8
 #EXTINF:-1 tvg-id="TheNest.us",The Nest
 https://content.uplynk.com/channel/b468fd41b60840579668c42c096a4103.m3u8
 #EXTINF:-1 tvg-id="TBNPacific.us",TBN Pacific
