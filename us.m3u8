@@ -211,6 +211,8 @@ https://reflect-stream-bronxnet.cablecast.tv/live-16/live/live.m3u8
 https://cafetradehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us",California Music Channel (720p) [Not 24/7]
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="CampSpoopy.us",Camp Spoopy (576p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTINF:-1 tvg-id="",Car Magazine TV
 https://number27.playout.vju.tv/number27/main.m3u8?test=1
 #EXTINF:-1 tvg-id="CatholicTV.us",Catholic TV
@@ -303,6 +305,8 @@ https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master
 https://eyeonesports.com/ES2RA-628g.m3u8
 #EXTINF:-1 tvg-id="EternalLifeTVNetwork.us",Eternal Life TV Network (1080p)
 https://livecdn.live247stream.com/eternallife/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EVTVMiami.us",EVTV Miami (720p) [Not 24/7]
+https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNAfricaAsia.us",EWTN Africa Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNAsiaPacific.us",EWTN Asia-Pacific (720p) [Not 24/7]
@@ -417,8 +421,6 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 tvg-id="LaoThaiTV.us",Lao-Thai TV (720p)
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="LatinZone.us",Latin Zone TV (720p)
-https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 #EXTINF:-1 tvg-id="LawCrime.us",Law & Crime (720p)
 https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8
 #EXTINF:-1 tvg-id="LifevisionTV.us",LifevisionTV (406p) [Not 24/7]
