@@ -421,6 +421,8 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 tvg-id="LaoThaiTV.us",Lao-Thai TV (720p)
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LatinZone.us",Latin Zone TV (720p)
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 #EXTINF:-1 tvg-id="LawCrime.us",Law & Crime (720p)
 https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8
 #EXTINF:-1 tvg-id="LifevisionTV.us",LifevisionTV (406p) [Not 24/7]
@@ -625,8 +627,6 @@ https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/st
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
 #EXTINF:-1 tvg-id="TechnoWarehouse.us",Techno Warehouse (US) (1080p) [Not 24/7]
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
-#EXTINF:-1 tvg-id="TeleBoston.us",Tele Boston (480p)
-http://rtb.srfms.com:3333/live/telebostonrtb/playlist.m3u8
 #EXTINF:-1 tvg-id="TeveVidaNetwork.us",Teve Vida Network (480p) [Not 24/7]
 https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8
 #EXTINF:-1 tvg-id="TheArchive.us",The Archive (1080p)
