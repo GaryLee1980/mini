@@ -29,6 +29,8 @@ https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 https://5d00db0e0fcd5.streamlock.net/7586/7586/playlist.m3u8
 #EXTINF:-1 tvg-id="EmanChannel.uk",Eman Channel (576p)
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1 tvg-id="GarshomTV.uk",Garshom TV (360p) [Not 24/7]
+https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk",GB News (1080p)
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 #EXTINF:-1 tvg-id="",Hadi TV French (720p)
@@ -95,6 +97,8 @@ https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-id="NollyAfrica.uk",Nolly Africa (1080p)
 https://edge-i.evrideo.tv/8808fff1-2262-4c92-8cf4-359adbb692ca_1000026794_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="NoorTV.uk",Noor TV (480p) [Not 24/7]
+https://live.smartmediahouse.tv:8443/hls/ch1.m3u8
 #EXTINF:-1 tvg-id="PopMax.uk",POP Max (576p)
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="PopMax.uk",POP Max (576p)
@@ -111,8 +115,6 @@ https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
 http://tv.sheffieldlive.org/hls/main.m3u8
 #EXTINF:-1 tvg-id="SimayeAzadi.uk",Simaye Azadi (1080p)
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
-#EXTINF:-1 tvg-id="SportyStuffTV.uk",SportyStuff TV (1080p)
-https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
 #EXTINF:-1 tvg-id="TakbeerTV.uk",Takbeer TV (1080p)
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id="TalkTV.uk",TalkTV (1080p)
