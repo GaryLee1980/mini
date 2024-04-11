@@ -131,3 +131,11 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="Bridezillas.uk",Bridezillas
 https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8
+#EXTINF:-1 tvg-id="BBCALBAHD.uk",BBC ALBA HD (1080p)
+http://83.97.18.189:4224/bysid/8927
+#EXTINF:-1 tvg-id="S4CHD.uk",S4C HD (1080p)
+http://83.97.18.189:4222/bysid/52565
+#EXTINF:-1 tvg-id="CBBCHD.uk",CBBC HD (1080p) [Not 24/7]
+http://83.97.18.189:4206/bysid/6972
+#EXTINF:-1 tvg-id="BBCNewsNorthAmerica.uk",BBC News (North America) (1080p)
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8

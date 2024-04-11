@@ -1,12 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="3ABNProclaimNetwork.us",3ABN Proclaim! Network (720p)
 https://3abn-live.akamaized.net/hls/live/2010549/Proclaim/master.m3u8
+#EXTINF:-1 tvg-id="30ADarcizzleOffshore.us",30A Darcizzle Offshore (720p)
+https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="",30A Georgia Hollywood Review TV
 https://30a-tv.com/gh.m3u8
 #EXTINF:-1 tvg-id="",30A Golf Kingdom
 https://30a-tv.com/feeds/vidaa/golf.m3u8
 #EXTINF:-1 tvg-id="30AInvestmentPitch.us",30A Investment Pitch
 https://www.30a-tv.com/InvPit.m3u8
+#EXTINF:-1 tvg-id="30AInvestmentPitch.us",30A Investment Pitch (720p)
+https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 #EXTINF:-1 tvg-id="",30A Loomered TV
 https://30a-tv.com/loomer.m3u8
 #EXTINF:-1 tvg-id="",30A Luxe Life Discovered
@@ -17,6 +21,8 @@ https://30a-tv.com/music.m3u8
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
 #EXTINF:-1 tvg-id="30ASidewalks.us",30A Sidewalks (720p)
 https://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1 tvg-id="",30A Television Channel
+https://30a-tv.com/feeds/masters/30atv.m3u8
 #EXTINF:-1 tvg-id="30ATheBeachShow.us",30A The Beach Show (720p)
 https://30a-tv.com/beachy.m3u8
 #EXTINF:-1 tvg-id="",30A TV Classic Movies
@@ -205,6 +211,8 @@ https://reflect-stream-bronxnet.cablecast.tv/live-16/live/live.m3u8
 https://cafetradehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us",California Music Channel (720p) [Not 24/7]
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="CampSpoopy.us",Camp Spoopy (576p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTINF:-1 tvg-id="",Car Magazine TV
 https://number27.playout.vju.tv/number27/main.m3u8?test=1
 #EXTINF:-1 tvg-id="CatholicTV.us",Catholic TV
@@ -823,3 +831,5 @@ http://143.244.60.30/TBS/index.m3u8
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="WCIUDT5.us",Story Television
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="ShemarooBollywood.us",Shemaroo Bollywood (1080p)
+https://shemaroo.codeautoplay.workers.dev/?codeby=nd&channel=shemaroobollywood
