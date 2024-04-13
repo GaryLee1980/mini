@@ -19,6 +19,8 @@ https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8
 #EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk",BBC News Asia Pacific (720p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+#EXTINF:-1 tvg-id="BBCNewsSouthAsia.uk",BBC World News South Asia
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="BENTelevision.uk",BEN Television (576p)
 https://webstreaming-11.viewmedia.tv/web_153/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BritishMuslimTV.uk",British Muslim TV (576p) [Not 24/7]

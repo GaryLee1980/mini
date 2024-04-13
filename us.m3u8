@@ -583,6 +583,8 @@ https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3
 https://shoutfactory-shoutfactory-zype.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SkwadPlay.us",SKWAD (1080p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
+#EXTINF:-1 tvg-id="",Sky Michigan TV
+https://cdn-unified-hls.streamspot.com/ingest1/6ec6f5ba47/playlist.m3u8?origin=1
 #EXTINF:-1 tvg-id="SpiritTV.us",Spirit TV (720p) [Not 24/7]
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 tvg-id="StocktonGovTV.us",Stockton GovTV (Stockton CA) (720p)
@@ -795,6 +797,8 @@ https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten-ozity.amagi.tv/playlist/amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoCorpusChristi.us",Telemundo Corpus Christi
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 tvg-id="TODAYAllDay.us",TODAY All Day (720p)
+https://ythls.armelin.one/channel/UChDKyKQ59fYz3JO2fl0Z6sg.m3u8
 #EXTINF:-1 tvg-id="DreamforceBtl.us",Dreamforce Btl
 https://srv2.tropicalmoonmedia.com/dreamforcebtltv/dreamforcebtltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Novelisima.us",Novelisima

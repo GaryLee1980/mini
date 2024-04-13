@@ -9,8 +9,6 @@ https://live.creacast.com/albi-tv-ch1/stream/playlist.m3u8
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 #EXTINF:-1 tvg-id="BIPTV.fr",BIP TV (480p) [Not 24/7]
 https://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF:-1 tvg-id="BostraTV.fr",Bostra TV (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCYEWRYZaggmEj0lFzmwf7Jg.m3u8
 #EXTINF:-1 tvg-id="Canal32.fr",Canal 32 (480p)
 https://edge13.vedge.infomaniak.com/livecast/ik:canal32/manifest.m3u8
 #EXTINF:-1 tvg-id="CDirect.fr",CDirect (360p)
@@ -81,7 +79,5 @@ https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
 #EXTINF:-1 tvg-id="ViaOccitanie.fr",viàOccitanie (540p) [Not 24/7]
 https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
-#EXTINF:-1 tvg-id="viaTelePaese.fr",viàTéléPaese (720p)
-https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
 #EXTINF:-1 tvg-id="VosgesTV.fr",Vosges Télévision (576p) [Not 24/7]
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
