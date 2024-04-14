@@ -11,8 +11,6 @@ https://30a-tv.com/feeds/vidaa/golf.m3u8
 https://www.30a-tv.com/InvPit.m3u8
 #EXTINF:-1 tvg-id="30AInvestmentPitch.us",30A Investment Pitch (720p)
 https://30a-tv.com/feeds/xodglobal/30atv.m3u8
-#EXTINF:-1 tvg-id="",30A Loomered TV
-https://30a-tv.com/loomer.m3u8
 #EXTINF:-1 tvg-id="",30A Luxe Life Discovered
 https://30a-tv.com/feeds/vidaa/luxelife.m3u8
 #EXTINF:-1 tvg-id="30AMusic.us",30A Music (720p)
@@ -445,8 +443,6 @@ https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.
 https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream.m3u8
 #EXTINF:-1 tvg-id="LittleGuyanaTV.us",Little Guyana TV (1080p)
 https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1 tvg-id="LivingFaithTV.us",Living Faith TV (540p)
-https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
 #EXTINF:-1 tvg-id="LogosTV.us",Logos TV (720p) [Not 24/7]
 https://5aafcc5de91f1.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LogosTVEnglish.us",Logos TV English (1080p) [Not 24/7]
@@ -797,8 +793,6 @@ https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten-ozity.amagi.tv/playlist/amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoCorpusChristi.us",Telemundo Corpus Christi
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-#EXTINF:-1 tvg-id="TODAYAllDay.us",TODAY All Day (720p)
-https://ythls.armelin.one/channel/UChDKyKQ59fYz3JO2fl0Z6sg.m3u8
 #EXTINF:-1 tvg-id="DreamforceBtl.us",Dreamforce Btl
 https://srv2.tropicalmoonmedia.com/dreamforcebtltv/dreamforcebtltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Novelisima.us",Novelisima
