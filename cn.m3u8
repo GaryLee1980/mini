@@ -19,6 +19,8 @@ https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-id="",云南 Ⅰ 文山综合台 (1080p) [Not 24/7]
 http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+#EXTINF:-1 tvg-id="",云南 Ⅰ 红河综合台 (1080p)
+https://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="",余姚姚江文化 (576p)
 https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 #EXTINF:-1 tvg-id="",余姚新闻综合 (576p)
@@ -193,6 +195,8 @@ http://office.gofaraway.top:888/udp/238.125.7.149:5140
 http://office.gofaraway.top:888/udp/238.125.7.147:5140
 #EXTINF:-1 tvg-id="XinjiangTV2.cn",Xinjiang TV 2 [Not 24/7]
 http://office.gofaraway.top:888/udp/238.125.3.175:5140
+#EXTINF:-1 tvg-id="",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-id="",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-id="",浙江少儿
