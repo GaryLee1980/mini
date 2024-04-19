@@ -81,16 +81,8 @@ https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="JobplusTV.kr",Job Plus TV (한국직업방송) (480p)
 https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="KBSDrama.kr",KBS Drama (480p)
-http://mytv.dothome.co.kr/ch/catv/2.php
-#EXTINF:-1 tvg-id="KBSJoy.kr",KBS Joy (480p)
-http://mytv.dothome.co.kr/ch/catv/3.php
-#EXTINF:-1 tvg-id="KBSLife.kr",KBS Life (480p)
-http://mytv.dothome.co.kr/ch/catv/5.php
 #EXTINF:-1 tvg-id="KBSLiveCamDokDo.kr",KBS LiveCam DokDo (540p)
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KBSStory.kr",KBS Story (480p)
-http://mytv.dothome.co.kr/ch/catv/4.php
 #EXTINF:-1 tvg-id="KBSWorld.kr",KBS World (720p)
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr",KBS World (720p)
@@ -99,8 +91,6 @@ https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV.kr",Korea TV (1080p)
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="",Korean Song Channel (720p)
-http://live.kytv.co.kr:8080/hls/stream.m3u8
 #EXTINF:-1 tvg-id="LotteHomeShopping.kr",Lotte Home Shopping (720p)
 https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 #EXTINF:-1 tvg-id="HLANDTV.kr",MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
@@ -169,11 +159,5 @@ http://210.210.155.37/dr9445/h/h21/index.m3u8
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
 #EXTINF:-1 tvg-id="WBCTV.kr",WBC TV (1080p)
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
-#EXTINF:-1 tvg-id="KBSWorld.kr",KBS World
-http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1 tvg-id="KBSWorld.kr",KBS World HD (1080p)
 https://ctrl.laotv.la/live/KBS/index.m3u8
-#EXTINF:-1 tvg-id="KBS2TV.kr",KBS 2TV [Not 24/7]
-http://mytv.dothome.co.kr/ch/public/3.php
-#EXTINF:-1 tvg-id="KBS1TV.kr",KBS 1TV [Not 24/7]
-http://mytv.dothome.co.kr/ch/public/1.php

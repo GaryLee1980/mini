@@ -499,8 +499,6 @@ https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.au",Nickelodeon Australia (576p)
 http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8
-#EXTINF:-1 tvg-id="NothingScripted.us",Nothing Scripted (720p)
-https://30a-tv.com/NothingScripted.m3u8
 #EXTINF:-1 tvg-id="NRBTV.us",NRB TV (480p)
 https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTVEast.us",NTD TV (New Tang Dynasty Television)
@@ -563,8 +561,6 @@ https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/liv
 https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/index.m3u8
 #EXTINF:-1 tvg-id="SadaEHaqTV.us",Sada-E-Haq TV (720p)
 https://live.relentlessinnovations.net:1936/sadaehaq/sadaehaq/playlist.m3u8
-#EXTINF:-1 tvg-id="ScientologyNetwork.us",Scientology Network (1080p)
-https://stream6.scientology.org/master.m3u8
 #EXTINF:-1 tvg-id="Shabakeh7.us",Shabakeh 7 (576p)
 https://t.northtelecom.org/Shabakeh.m3u8
 #EXTINF:-1 tvg-id="ShalomAmerica.us",Shalom TV (720p) [Not 24/7]
@@ -783,6 +779,8 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 https://marqueelive.akamaized.net/live-pz/a/hls-itc/marquee1/index.m3u8
 #EXTINF:-1 tvg-id="WTSPDT1.us",WTSP CBS 10 (Tampa FL) (1080p)
 https://video.tegnaone.com/wtsp/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTSP-Production/live/index.m3u8
+#EXTINF:-1 tvg-id="WTSPDT1.us",CBS WTSPDT (720p)
+https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk&CMCD=mtp%3D9500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224e546942-2006-495c-a946-06b8f3a0faca%22
 #EXTINF:-1 tvg-id="",MAV Select CANADA
 https://d70mb4nkspm3g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvwqo3j029lz0/playlist.m3u8
 #EXTINF:-1 tvg-id="",MAV Select USA
@@ -795,6 +793,8 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 https://srv2.tropicalmoonmedia.com/dreamforcebtltv/dreamforcebtltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Novelisima.us",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
+#EXTINF:-1 tvg-id="FMTV.us",Frecuencia Musical TV [Not 24/7]
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="NickelodeonEast.us",Nickelodeon East (720p)
 http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="MBC3USA.us",MBC 5
@@ -807,6 +807,8 @@ http://41.205.93.154/FOXBUSINESS/index.m3u8
 https://content.uplynk.com/channel/b468fd41b60840579668c42c096a4103.m3u8
 #EXTINF:-1 tvg-id="TBNPacific.us",TBN Pacific
 https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
+#EXTINF:-1 tvg-id="NickMusic.us",NickMusic
+http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoWest.us" tvg-shift="10800",Telemundo West (720p)
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
 #EXTINF:-1 tvg-id="NicktoonsEast.us",NickToons (720p)

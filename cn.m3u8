@@ -3,6 +3,8 @@
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="DragonTVInternational.cn",Dragon TV International (360p)
 http://210.210.155.37/x6bnqe/s/s29/index.m3u8
+#EXTINF:-1 tvg-id="",万州三峡移民 (576p) [Not 24/7]
+http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
 #EXTINF:-1 tvg-id="",万州影视 (576p) [Not 24/7]
 http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8
 #EXTINF:-1 tvg-id="",万州科教 (576p)
@@ -109,8 +111,6 @@ http://live.cztv.cc:85/live/xwpd.m3u8
 http://live.cztv.cc:85/live/sjpd.m3u8
 #EXTINF:-1 tvg-id="",漳州新闻综合 (720p) [Not 24/7]
 https://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
-#EXTINF:-1 tvg-id="",甘肃公共 (540p) [Not 24/7]
-https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
 #EXTINF:-1 tvg-id="",福州广播电视台新闻综合频道 (FZTV-1) (1080p)
 http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 #EXTINF:-1 tvg-id="",福州广播电视台都市生活频道 (FZTV-3) (1080p)
