@@ -73,8 +73,6 @@ https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
 https://paneltv.online:1936/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-id="EkizTV.cl",Ekiz TV (1080p)
 http://live.mundogo.cl/mundo/EquizTV/index.m3u8
-#EXTINF:-1 tvg-id="ElPinguinoTV.cl",El Pingüino TV (720p)
-https://github.com/MachineSystems/archived_m3u8/raw/main/elpinguino_cl.m3u8
 #EXTINF:-1 tvg-id="ElTipografo.cl",El Tipógrafo (1080p)
 http://live.mundogo.cl/mundo/Tipografo/index.m3u8
 #EXTINF:-1 tvg-id="EnfoqueDigitalTV.cl",Enfoque Digital TV (1080p)
@@ -201,6 +199,8 @@ https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 tvg-id="VCOnline.cl",VC Online (720p)
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+#EXTINF:-1 tvg-id="VidaTV.cl",Vida TV (1080p)
+http://181.224.64.2:89/vidatv/index.m3u8
 #EXTINF:-1 tvg-id="VozdePoderTelevision.cl",Voz de Poder Television (720p)
 https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8
 #EXTINF:-1 tvg-id="VTVValledeAconcagua.cl",VTV Valle de Aconcagua (720p) [Not 24/7]

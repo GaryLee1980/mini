@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BreadTV.cn",Bread TV面包台 (720p)
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
