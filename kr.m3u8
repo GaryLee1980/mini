@@ -67,8 +67,6 @@ https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GugakTV.kr",GugakTV 국악방송 (1080p)
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GugbangTV.kr",Gugbang TV (1080p) [Not 24/7]
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HomeShopping.kr",Home & Shopping (720p)
 https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
 #EXTINF:-1 tvg-id="HyundaiHomeShopping.kr",Hyundai Home Shopping (720p)
@@ -173,8 +171,6 @@ https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr",KBS World
 http://mytv.dothome.co.kr/ch/catv/7.php
-#EXTINF:-1 tvg-id="KBSWorld.kr",KBS World HD (1080p)
-https://ctrl.laotv.la/live/KBS/index.m3u8
 #EXTINF:-1 tvg-id="KBS2TV.kr",KBS 2TV [Not 24/7]
 http://mytv.dothome.co.kr/ch/public/3.php
 #EXTINF:-1 tvg-id="KBS1TV.kr",KBS 1TV [Not 24/7]
