@@ -81,6 +81,8 @@ https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
 https://sp1564435593.mytvchain.info/live/sp1564435593_360/index.m3u8
 #EXTINF:-1 tvg-id="TeleGohelle.fr",TéléGohelle
 https://videas.agglo-lenslievin.fr/index.m3u8
+#EXTINF:-1 tvg-id="Telenantes.fr",Télénantes (480p)
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Telenantes.m3u8
 #EXTINF:-1 tvg-id="TV3V.fr",TV3V (720p)
 https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
 #EXTINF:-1 tvg-id="TV7Colmar.fr",TV7 Colmar (576p)

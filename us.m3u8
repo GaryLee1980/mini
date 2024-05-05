@@ -261,6 +261,8 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CSatTV.us",CSat TV (1080p) [Not 24/7]
 https://5b622f07944df.streamlock.net/csat.tv/csat.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CSatTV.us",CSat TV (1080p) [Not 24/7]
+https://5d12bc59c4748.streamlock.net/redirect/csat.tv/csat.smil?type=m3u8
 #EXTINF:-1 tvg-id="CTNCourtFeed.us",CT-N Court Feed (360p) [Not 24/7]
 http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8
 #EXTINF:-1 tvg-id="CTNLiveStream2.us",CT-N Live Stream 2 (360p) [Not 24/7]
@@ -401,8 +403,6 @@ https://hls.iranfarda.live/hls/stream.m3u8
 https://isntv.mmdlive.lldns.net/isntv/f79b65204e7141c6a5cc74e63cf0dae5/playlist.m3u8
 #EXTINF:-1 tvg-id="",Jeffrey A Swanson Photography (720p)
 https://app.viloud.tv/hls/channel/07c8b76fa3a98409d527cede85852d55.m3u8
-#EXTINF:-1 tvg-id="JewelryTV.us",Jewelry Television (720p)
-https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="JohnnyCarsonTV.us",Johnny Carson TV (432p)
 https://johnnycarson-zype.amagi.tv/playlistR432p.m3u8
 #EXTINF:-1 tvg-id="JuventudRenovadaenelEspirituSanto.us",Juventud Renovada en el Espiritu Santo (720p) [Not 24/7]
@@ -467,8 +467,6 @@ https://sydandmacky.vju.tv/sydandmacky/main.m3u8?test=1
 https://mtchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NagoTV.us",Nago TV (240p)
 https://lakay.online/public/nagotv/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="NASATV.us",NASA TV (720p)
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="NASATVMedia.us",NASA TV Media (720p)
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-id="NASATVPublic.us",NASA TV Public (720p)
@@ -519,8 +517,6 @@ http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/ind
 https://5790d294af2dc.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-id="OURTV.us",Opportunities in Urban Renaissance Television (OURTV) (720p)
 https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/playlist.m3u8
-#EXTINF:-1 tvg-id="PanarmenianTV.us",Panarmenian TV
-https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456
 #EXTINF:-1 tvg-id="",Paragliding TV
 https://paraglidingtv.playout.vju.tv/paraglidingtv/main.m3u8
 #EXTINF:-1 tvg-id="PayameAfghanTV.us",Payam-e-Afghan TV (480p) [Not 24/7]
@@ -541,6 +537,8 @@ https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 tvg-id="RJTV.us",Radio Javan TV (1080p)
 http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioRitmoFM.cl",Radio Ritmo (1080p) [Not 24/7]
+https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioMensajeTV.us",RadioMensaje TV (720p)
 https://eu1.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-id="Revry2.us",Revry 2
