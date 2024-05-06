@@ -23,6 +23,8 @@ https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8
 #EXTINF:-1 tvg-id="AntofagastaTV.cl",Antofagasta TV (ATV) (1080p)
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AricaTV.cl",Arica TV (480p) [Not 24/7]
+https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8
 #EXTINF:-1 tvg-id="AtacamaNoticias.cl",Atacama Noticias (720p) [Not 24/7]
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
 #EXTINF:-1 tvg-id="AtacamaTV.cl",Atacama TV (Copiapó) (720p) [Not 24/7]
@@ -65,8 +67,6 @@ https://v2.tustreaming.cl/clicktv/playlist.m3u8
 http://live.mundogo.cl/mundo/concepciontv/index.m3u8
 #EXTINF:-1 tvg-id="Contivision.cl",Contivision (720p)
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CosmosTV.cl",Cosmos TV (720p)
-https://v1.tustreaming.cl/cosmostv/index.m3u8
 #EXTINF:-1 tvg-id="DanceFM.cl",Dance FM (720p)
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 #EXTINF:-1 tvg-id="DecimaTV.cl",Décima TV (Ancud) (720p)
@@ -75,6 +75,8 @@ https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
 https://paneltv.online:1936/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-id="EkizTV.cl",Ekiz TV (1080p)
 http://live.mundogo.cl/mundo/EquizTV/index.m3u8
+#EXTINF:-1 tvg-id="ElPinguinoTV.cl",El Pingüino TV (720p)
+https://github.com/MachineSystems/archived_m3u8/raw/main/elpinguino_cl.m3u8
 #EXTINF:-1 tvg-id="ElTipografo.cl",El Tipógrafo (1080p)
 http://live.mundogo.cl/mundo/Tipografo/index.m3u8
 #EXTINF:-1 tvg-id="EnfoqueDigitalTV.cl",Enfoque Digital TV (1080p)
@@ -93,12 +95,8 @@ https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8
 https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LaChilenaTV.cl",La Chilena TV
 https://vdochile.com:3134/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="LaRed.cl",La Red (720p) [Not 24/7]
-https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MaderoTV.cl",Madero TV (720p)
 https://www.cloudscriptdog.cl:19360/madero-video-01/madero-video-01.m3u8
-#EXTINF:-1 tvg-id="Mega.cl",Mega (480p)
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MolinaTV.cl",Molina TV (1080p)
 http://live.mundogo.cl/mundo/Molinatv/index.m3u8
 #EXTINF:-1 tvg-id="NCTV.cl",NCTV (1080p)
@@ -109,6 +107,8 @@ https://marine2.miplay.cl/ntv/playlist.m3u8
 http://live.mundogo.cl/mundo/Nuevaregion/index.m3u8
 #EXTINF:-1 tvg-id="PandamaxChannel.cl",Pandamax Channel (1080p)
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1 tvg-id="PichilemuTV.cl",Pichilemu TV (1080p)
+https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
 #EXTINF:-1 tvg-id="PintanaTV.cl",Pintana TV (720p)
 https://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="PlanetaTVMovie.cl",PlanetaTV Movie (720p)
@@ -123,28 +123,30 @@ https://pnt.janusmedia.tv/hls/pnt.m3u8
 https://tv.streaming-chile.com:19360/elsembrador/elsembrador.m3u8
 #EXTINF:-1 tvg-id="RadioHoyTV.cl",Radio Hoy TV (1080p)
 https://panel.dattalive.com/8146/8146/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTributoValentina.cl",Radio Tributo Valentina (720p)
-https://vdochile.com:3385/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="RDOTelevision.cl",RDO Televisión (480p)
 http://live.mundogo.cl/mundo/RDO/index.m3u8
 #EXTINF:-1 tvg-id="RestaurandoVidasInternacional.cl",Restaurando Vidas Internacional (720p)
 https://v4.tustreaming.cl/restaurandovida/index.m3u8
 #EXTINF:-1 tvg-id="RetroPlus.cl",Retro Plus HD (720p)
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-id="SantaMariaTelevision.cl",Santa María Televisión (720p) [Not 24/7]
-https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sextavision.cl",Sextavisión (720p)
+https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
+#EXTINF:-1 tvg-id="SoloBailalo.cl",SoloBáilalo (480p)
+https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
 #EXTINF:-1 tvg-id="SoloStandUp.cl",SoloStandUp (480p) [Not 24/7]
 https://paneltv.online:1936/8116/8116/playlist.m3u8
 #EXTINF:-1 tvg-id="SpectrumChannel.cl",Spectrum Channel SMAS (720p) [Not 24/7]
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
+#EXTINF:-1 tvg-id="T13.cl",T13 (720p)
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVinet.cl",T-Vinet (480p)
 https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Tele2WebRetiro.cl",Tele 2 Web (Retiro) (720p) [Not 24/7]
 https://inliveserver.com:1936/11516/11516/playlist.m3u8
 #EXTINF:-1 tvg-id="TeletrakTV.cl",Teletrak (720p)
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Televida.cl",Televida (1080p)
-https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TendenciasPrime.cl",Tendencias Prime (T31 | Ñuñoa) (1080p) [Not 24/7]
+https://v2.tustreaming.cl/tendenciastv/index.m3u8
 #EXTINF:-1 tvg-id="Tevex.cl",Tevex (720p) [Not 24/7]
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 tvg-id="ThemaTelevision.cl",Thema Televisión (La Serena) (720p) [Not 24/7]
@@ -179,8 +181,6 @@ https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UESTV.cl",UESTV (720p)
 https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="UMAGTV2.cl",UMAGTV 2 (720p)
-https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="UATV.cl",Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
 https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UATV.cl",Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
@@ -209,5 +209,7 @@ https://cp.panelchs.com:1936/8118/8118/playlist.m3u8
 https://oracle.streaminghd.cl/canalchilote/canalchilote/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal74SanAntonio.cl",Canal 74 San Antonio
 https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
+#EXTINF:-1 tvg-id="CalderaVision.cl",Caldera Vision
+https://5ff3d9babae13.streamlock.net/frknrusdct/frknrusdct/playlist.m3u8
 #EXTINF:-1 tvg-id="ClaroSportsChile.cl",Claro Sports Chile
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a66666000086712d7livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true

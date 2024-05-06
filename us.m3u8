@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="3ABNProclaimNetwork.us",3ABN Proclaim! Network (720p)
 https://3abn-live.akamaized.net/hls/live/2010549/Proclaim/master.m3u8
-#EXTINF:-1 tvg-id="30ADarcizzleOffshore.us",30A Darcizzle Offshore (720p)
-https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="",30A Georgia Hollywood Review TV
 https://30a-tv.com/gh.m3u8
 #EXTINF:-1 tvg-id="",30A Golf Kingdom
@@ -467,6 +465,8 @@ https://sydandmacky.vju.tv/sydandmacky/main.m3u8?test=1
 https://mtchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NagoTV.us",Nago TV (240p)
 https://lakay.online/public/nagotv/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="NASATV.us",NASA TV (720p)
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="NASATVMedia.us",NASA TV Media (720p)
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-id="NASATVPublic.us",NASA TV Public (720p)
@@ -517,6 +517,8 @@ http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/ind
 https://5790d294af2dc.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-id="OURTV.us",Opportunities in Urban Renaissance Television (OURTV) (720p)
 https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/playlist.m3u8
+#EXTINF:-1 tvg-id="PanarmenianTV.us",Panarmenian TV
+https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456
 #EXTINF:-1 tvg-id="",Paragliding TV
 https://paraglidingtv.playout.vju.tv/paraglidingtv/main.m3u8
 #EXTINF:-1 tvg-id="PayameAfghanTV.us",Payam-e-Afghan TV (480p) [Not 24/7]
@@ -537,8 +539,6 @@ https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 tvg-id="RJTV.us",Radio Javan TV (1080p)
 http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioRitmoFM.cl",Radio Ritmo (1080p) [Not 24/7]
-https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioMensajeTV.us",RadioMensaje TV (720p)
 https://eu1.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-id="Revry2.us",Revry 2
@@ -787,8 +787,6 @@ https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten-ozity.amagi.tv/playlist/amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoCorpusChristi.us",Telemundo Corpus Christi
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-#EXTINF:-1 tvg-id="TODAYAllDay.us",TODAY All Day (720p)
-https://ythls.armelin.one/channel/UChDKyKQ59fYz3JO2fl0Z6sg.m3u8
 #EXTINF:-1 tvg-id="DreamforceBtl.us",Dreamforce Btl
 https://srv2.tropicalmoonmedia.com/dreamforcebtltv/dreamforcebtltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Novelisima.us",Novelisima
