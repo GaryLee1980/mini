@@ -9,6 +9,8 @@ https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 https://live.creacast.com/albi-tv-ch1/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlpedHuezTV.fr",Alpe d’Huez TV (720p) [Not 24/7]
 https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="AntenneReunion.fr",Antenne Réunion (720p) [Not 24/7]
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 #EXTINF:-1 tvg-id="BblackAfrica.fr",Bblack! Africa
 http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 #EXTINF:-1 tvg-id="BblackCaribbean.fr",Bblack! Caribbean
@@ -17,6 +19,10 @@ http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 #EXTINF:-1 tvg-id="BIPTV.fr",BIP TV (480p) [Not 24/7]
 https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 tvg-id="Canal32.fr",Canal 32 (1080p)
+http://livevideo.vedge.infomaniak.com/livecast/ik:canal32/manifest.m3u8
+#EXTINF:-1 tvg-id="Canal32.fr",Canal 32 (480p)
+https://edge13.vedge.infomaniak.com/livecast/ik:canal32/manifest.m3u8
 #EXTINF:-1 tvg-id="CDirect.fr",CDirect (360p)
 http://51.254.199.122:8080/cdirectTV/index.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr",Chérie 25 (1080p)
@@ -53,8 +59,6 @@ http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
 #EXTINF:-1 tvg-id="MyZenTV.fr",MyZen TV (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:-1 tvg-id="NancyWebTV.fr",Nancy Web TV (394p) [Not 24/7]
-https://edge.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8
 #EXTINF:-1 tvg-id="NLMTV.fr",NLM TV (720p)
 https://ktismaservers.in:3394/stream/play.m3u8
 #EXTINF:-1 tvg-id="NRJ12.fr",NRJ 12 (1080p)

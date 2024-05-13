@@ -11,6 +11,8 @@ https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
 https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
 #EXTINF:-1 tvg-id="AnixeHDSerie.de",Anixe HD Serie (360p)
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de",ARD-alpha (720p)
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1 tvg-id="ARDalpha.de",ARD-alpha (720p) [Not 24/7]
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1 tvg-id="AristoTV.de",Aristo TV (360p)
@@ -33,8 +35,6 @@ https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/pla
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?ref=medienportal-sachsen-
 #EXTINF:-1 tvg-id="SachsenFernsehenChemnitz.de",Chemnitz Fernsehen (1080p)
 https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="DASDING908.de",DASDING 90.8 (720p)
-https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 #EXTINF:-1 tvg-id="DeluxeDance.de",Deluxe Dance (1080p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-id="DeluxeFlashback.de",Deluxe Flashback (1080p)
@@ -51,8 +51,6 @@ https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="DWArabic.de",DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 tvg-id="DWEnglish.de",DW English (1080p)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="EchtJetztTV.de",EchtJetzt TV (720p)
@@ -121,8 +119,6 @@ https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist
 https://h056.video-stream-hosting.de/easycast9-live/_definst_/mp4:livestream99/playlist.m3u8?ref=
 #EXTINF:-1 tvg-id="MyTVplus.de",MyTVplus (Dresden) (576p)
 https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="NiederbayernTV.de",Niederbayern TV (720p)
-https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
 #EXTINF:-1 tvg-id="NiederbayernTVDeggendorfStraubing.de",Niederbayern TV Deggendorf & Straubing (1080p)
 https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
 #EXTINF:-1 tvg-id="NiederbayernTVLandshut.de",Niederbayern TV Landshut (1080p)
@@ -195,9 +191,6 @@ https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_d
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Parlamentsfernsehen4.de",Parlamentsfernsehen 4 (1080p) [Not 24/7]
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ProSieben.de",ProSieben (576p)
-#EXTVLCOPT:http-referrer=http://85.187.13.40:18000/
-http://85.187.13.40:18000/ProSieben
 #EXTINF:-1 tvg-id="PUNKTumFernsehen.de",PUNKTum Fernsehen (1080p) [Not 24/7]
 http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
 #EXTINF:-1 tvg-id="",QVC 2 Germany (540p)
@@ -291,6 +284,8 @@ https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/play
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
 #EXTINF:-1 tvg-id="Sylt1.de",Sylt1 (404p)
 https://5f7f7503aa549.streamlock.net/Sylt1_Channel_1_PGM/sylt1_high/Playlist.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de",Tagesschau 24 (720p)
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-id="teltOwkanal.de",teltOwkanal (1080p)
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
 #EXTINF:-1 tvg-id="TideTV.de",Tide TV (1080p)
