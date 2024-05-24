@@ -95,12 +95,16 @@ http://mytv.dothome.co.kr/ch/catv/4.php
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr",KBS World (720p)
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KCTV.kr",KCTV 광주 CH05 (720p) [Not 24/7]
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV.kr",Korea TV (1080p)
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LotteHomeShopping.kr",Lotte Home Shopping (720p)
 https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 #EXTINF:-1 tvg-id="HLANDTV.kr",MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLAODTV.kr",MBC Chungbuk (MBC 충북) (720p) [Not 24/7]
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HLCTDTV.kr",MBC Daegu (대구 MBC) (480p) [Not 24/7]
 https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 #EXTINF:-1 tvg-id="HLCQDTV.kr",MBC Daejeon (대전 MBC) (720p) [Not 24/7]
@@ -119,8 +123,6 @@ https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
 #EXTINF:-1 tvg-id="NBS.kr",NBS Korea Agricultural Broadcasting (720p)
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-#EXTINF:-1 tvg-id="NHTV.kr",NHTV (720p)
-http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 #EXTINF:-1 tvg-id="NSHomeShopping.kr",NS Home Shopping (720p)
 https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
 #EXTINF:-1 tvg-id="NSShopPlus.kr",NS Shop Plus (720p)
@@ -159,10 +161,6 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVChosun2.kr",TV Chosun 2 (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 tvg-id="tvN.kr",tvN Asia (Indonesian Subtitle) (576p)
-http://210.210.155.37/dr9445/h/h20/index.m3u8
-#EXTINF:-1 tvg-id="tvNMoviesAsia.hk",tvN Movies (Indonesian Subtitle) (576p)
-http://210.210.155.37/dr9445/h/h21/index.m3u8
 #EXTINF:-1 tvg-id="WShopping.kr",W Shopping (720p)
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
 #EXTINF:-1 tvg-id="WBCTV.kr",WBC TV (1080p)
