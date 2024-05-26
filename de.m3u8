@@ -143,8 +143,6 @@ https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
 https://fms.nrwision.de/live/livestreamHD.stream_source/playlist.m3u8
 #EXTINF:-1 tvg-id="NRWision.de",NRWision (720p)
 https://fms.nrwision.de/live/livestreamHD.stream_1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="NRWision.de",NRWision (360p)
-https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="OberlausitzTV.de",Oberlausitz TV (1080p)
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
 #EXTINF:-1 tvg-id="OberpfalzTV.de",Oberpfalz TV (1080p)
