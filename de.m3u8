@@ -143,6 +143,8 @@ https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
 https://fms.nrwision.de/live/livestreamHD.stream_source/playlist.m3u8
 #EXTINF:-1 tvg-id="NRWision.de",NRWision (720p)
 https://fms.nrwision.de/live/livestreamHD.stream_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="NRWision.de",NRWision (360p)
+https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="OberlausitzTV.de",Oberlausitz TV (1080p)
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
 #EXTINF:-1 tvg-id="OberpfalzTV.de",Oberpfalz TV (1080p)
@@ -282,8 +284,6 @@ https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
 https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SRF.de",SRF (1080p)
 https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Studio47.de",Studio 47 (576p)
-https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="SWR3VisualRadio.de",SWR 3 Visual Radio (720p)
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
 #EXTINF:-1 tvg-id="Sylt1.de",Sylt1 (404p)

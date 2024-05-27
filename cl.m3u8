@@ -51,8 +51,6 @@ http://live.mundogo.cl/mundo/Canallocalquillota/index.m3u8
 https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
 #EXTINF:-1 tvg-id="CaracolaTV.cl",Caracola TV (Peñalolén) (720p) [Not 24/7]
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CDR.cl",CDR (720p)
-https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8
 #EXTINF:-1 tvg-id="CDTV.cl",CDTV (720p) [Not 24/7]
 http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ChileChannel.cl",Chile Channel (720p)
@@ -131,6 +129,8 @@ https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
 https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
 #EXTINF:-1 tvg-id="SpectrumChannel.cl",Spectrum Channel SMAS (720p) [Not 24/7]
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
+#EXTINF:-1 tvg-id="T13.cl",T13 (720p)
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Tele2WebRetiro.cl",Tele 2 Web (Retiro) (720p) [Not 24/7]
 https://inliveserver.com:1936/11516/11516/playlist.m3u8
 #EXTINF:-1 tvg-id="TeletrakTV.cl",Teletrak (720p)
@@ -151,8 +151,6 @@ https://paneltv.online:1936/8056/8056/playlist.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSenado.cl",TV Senado (360p)
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUCT.cl",TV UCT (1080p)
-https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR.cl",TVR (1080p) [Not 24/7]
 https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRCanal11.cl",TVR Canal 11 Curicó (1080p)
