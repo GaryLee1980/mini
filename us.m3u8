@@ -87,6 +87,8 @@ http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
 https://tbn-jw.cdn.vustreams.com/live/al-horreya/live.isml/.m3u8
 #EXTINF:-1 tvg-id="AlFadyTV.us",Al-Fady TV (1080p) [Not 24/7]
 https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbdreamsTV.us",AlbDreams TV (720p)
+http://live.albavision.net:1123/live/albdreams.m3u8
 #EXTINF:-1 tvg-id="Alhurra.us",Alhurra (720p)
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="AlhurraIraq.us",Alhurra Iraq (720p)
@@ -115,6 +117,8 @@ https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
 https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericasVoice.us",America's Voice (720p)
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
+#EXTINF:-1 tvg-id="AmericanHorrors.us",American Horrors (480p)
+https://amhorstream.com/playlist/amhor/playlist.m3u8
 #EXTINF:-1 tvg-id="AMGTV.us",AMG TV (1080p)
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 tvg-id="AMGATV.us",Amga TV (720p) [Not 24/7]
@@ -221,8 +225,6 @@ https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/7345
 https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-id="CBNNews.us",CBN News National (1080p)
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us",CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.us",Channel Yek (720p)
 https://ch1hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Charge.us",Charge! (720p)
@@ -481,8 +483,6 @@ https://sydandmacky.vju.tv/sydandmacky/main.m3u8?test=1
 https://mtchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NagoTV.us",Nago TV (240p)
 https://lakay.online/public/nagotv/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="NASATV.us",NASA TV (720p)
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="NASATVMedia.us",NASA TV Media (720p)
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-id="NASATVPublic.us",NASA TV Public (720p)
@@ -605,6 +605,8 @@ https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 #EXTINF:-1 tvg-id="",Talkin Live Classics TV (480p)
 https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tastemade.us",Tastemade (1080p)
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="Tastemade.au",Tastemade Australia (1080p)
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TBD.us",TBD. (720p)
@@ -803,6 +805,8 @@ https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten-ozity.amagi.tv/playlist/amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoCorpusChristi.us",Telemundo Corpus Christi
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 tvg-id="TODAYAllDay.us",TODAY All Day (720p)
+https://ythls.armelin.one/channel/UChDKyKQ59fYz3JO2fl0Z6sg.m3u8
 #EXTINF:-1 tvg-id="DreamforceBtl.us",Dreamforce Btl
 https://srv2.tropicalmoonmedia.com/dreamforcebtltv/dreamforcebtltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Novelisima.us",Novelisima
