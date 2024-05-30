@@ -77,6 +77,8 @@ https://github.com/MachineSystems/archived_m3u8/raw/main/elpinguino_cl.m3u8
 http://live.mundogo.cl/mundo/Tipografo/index.m3u8
 #EXTINF:-1 tvg-id="EnfoqueDigitalTV.cl",Enfoque Digital TV (1080p)
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
+#EXTINF:-1 tvg-id="GraciaTV.cl",Gracia TV (1080p) [Not 24/7]
+http://v3.tustreaming.cl/graciatv/index.m3u8
 #EXTINF:-1 tvg-id="HitoCeroTelevision.cl",Hito Cero Television
 https://5ff3d9babae13.streamlock.net/8018/8018/playlist.m3u8
 #EXTINF:-1 tvg-id="HolvoetTV.cl",Holvoet TV (Copiapó) (720p) [Not 24/7]
@@ -93,8 +95,6 @@ https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8
 https://vdochile.com:3134/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="LaRed.cl",La Red (720p) [Not 24/7]
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MaderoTV.cl",Madero TV (720p)
-https://www.cloudscriptdog.cl:19360/madero-video-01/madero-video-01.m3u8
 #EXTINF:-1 tvg-id="Mega.cl",Mega (480p)
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MolinaTV.cl",Molina TV (1080p)
@@ -113,10 +113,6 @@ https://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playl
 https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PuranoticiaTV.cl",Puranoticia TV (720p)
 https://pnt.janusmedia.tv/hls/pnt.m3u8
-#EXTINF:-1 tvg-id="RadioHoyTV.cl",Radio Hoy TV (1080p)
-https://panel.dattalive.com/8146/8146/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTributoValentina.cl",Radio Tributo Valentina (720p)
-https://vdochile.com:3385/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="RDOTelevision.cl",RDO Televisión (480p)
 http://live.mundogo.cl/mundo/RDO/index.m3u8
 #EXTINF:-1 tvg-id="RestaurandoVidasInternacional.cl",Restaurando Vidas Internacional (720p)
@@ -131,6 +127,10 @@ https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
 https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
 #EXTINF:-1 tvg-id="SpectrumChannel.cl",Spectrum Channel SMAS (720p) [Not 24/7]
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
+#EXTINF:-1 tvg-id="T13.cl",T13 (720p)
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVinet.cl",T-Vinet (480p)
+https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Tele2WebRetiro.cl",Tele 2 Web (Retiro) (720p) [Not 24/7]
 https://inliveserver.com:1936/11516/11516/playlist.m3u8
 #EXTINF:-1 tvg-id="TeletrakTV.cl",Teletrak (720p)
@@ -149,8 +149,6 @@ https://paneltv.online:1936/8056/8056/playlist.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSenado.cl",TV Senado (360p)
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUCT.cl",TV UCT (1080p)
-https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR.cl",TVR (1080p) [Not 24/7]
 https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRCanal11.cl",TVR Canal 11 Curicó (1080p)
