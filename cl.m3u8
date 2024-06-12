@@ -89,6 +89,8 @@ https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
 https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8
 #EXTINF:-1 tvg-id="LaChilenaTV.cl",La Chilena TV
 https://vdochile.com:3134/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="LaRed.cl",La Red (720p) [Not 24/7]
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MaderoTV.cl",Madero TV (720p)
 https://www.cloudscriptdog.cl:19360/madero-video-01/madero-video-01.m3u8
 #EXTINF:-1 tvg-id="Mega.cl",Mega (480p)
@@ -119,6 +121,10 @@ https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sextavision.cl",Sextavisión (720p)
 https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
+#EXTINF:-1 tvg-id="SoloBailalo.cl",SoloBáilalo (480p)
+https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
+#EXTINF:-1 tvg-id="SoloBailalo.cl",SoloBáilalo (480p)
+https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-id="SpectrumChannel.cl",Spectrum Channel SMAS (720p) [Not 24/7]
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-id="TVinet.cl",T-Vinet (480p)
@@ -169,6 +175,8 @@ https://v2.tustreaming.cl/utv/index.m3u8
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 tvg-id="VCOnline.cl",VC Online (720p)
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+#EXTINF:-1 tvg-id="VozdePoderTelevision.cl",Voz de Poder Television (720p)
+https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8
 #EXTINF:-1 tvg-id="VTVValledeAconcagua.cl",VTV Valle de Aconcagua (720p) [Not 24/7]
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VTVValledeAconcagua.cl",VTV Valle de Aconcagua (720p) [Not 24/7]

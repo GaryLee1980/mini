@@ -125,6 +125,8 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 #EXTINF:-1 tvg-id="ArianaAfghanistanInternationalTV.us",Ariana Afghanistan International TV (720p) [Not 24/7]
 https://iptv.arianaafgtv.com/ariana/playlist.m3u8
+#EXTINF:-1 tvg-id="ATDTV.us",ATD (1080p)
+http://46.99.146.236/0.m3u8
 #EXTINF:-1 tvg-id="AvangTV.us",Avang TV (720p)
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AWEEncore.us",AWE Encore (720p) [Geo-blocked]
@@ -211,6 +213,8 @@ https://reflect-stream-bronxnet.cablecast.tv/live-16/live/live.m3u8
 https://cafetradehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us",California Music Channel (720p) [Not 24/7]
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="CameraSmileTV.us",Camera Smile (480p)
+https://bozztv.com/gusa/gusa-camerasmile/index.m3u8
 #EXTINF:-1 tvg-id="CampSpoopy.us",Camp Spoopy (576p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTINF:-1 tvg-id="CatholicTV.us",Catholic TV
@@ -221,10 +225,16 @@ https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/7345
 https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-id="CBNNews.us",CBN News National (1080p)
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 tvg-id="CelebritySceneTV.us",Celebrity Scene TV (720p)
+https://bozztv.com/gusa/gusa-celebrityscene/index.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.us",Channel Yek (720p)
 https://ch1hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Charge.us",Charge! (720p)
 https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 tvg-id="ChefChampion.us",Chef Champion (720p) [Not 24/7]
+https://bozztv.com/gusa/gusa-chefchampion/index.m3u8
+#EXTINF:-1 tvg-id="ChefRocShow.us",Chef Roc Show (720p) [Not 24/7]
+https://bozztv.com/gusa/gusa-chefrock/index.m3u8
 #EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us",Christian Youth Channel (CYC) (1080p)
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us",Christian Youth Channel (CYC) (1080p)
@@ -233,6 +243,8 @@ http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-id="ClassicCinema.us",Classic Cinema (240p) [Not 24/7]
+https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
 #EXTINF:-1 tvg-id="CloudflareTV.us",Cloudflare TV (720p)
 https://cloudflare.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us",CMC (California Music Channel)
@@ -371,6 +383,8 @@ https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-59455895b1214d3893e29a4f536
 https://go2thls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="",Golden Boy
 https://goldenboy.duckhunting.playout.vju.tv/DuckhuntingTV_GoldenBoy/main.m3u8
+#EXTINF:-1 tvg-id="GoldenPanregional.mx",Golden TV (240p) [Not 24/7]
+https://bozztv.com/gusa/gusa-goldentv/index.m3u8
 #EXTINF:-1 tvg-id="GoodLife45.us",GoodLife 45 (720p) [Not 24/7]
 https://1-fss29-s0.streamhoster.com/lv_goodlife45f1/broadcast1/playlist.m3u8
 #EXTINF:-1 tvg-id="GBNTV.us",Gospel Broadcasting Network (GBN) (1080p)
@@ -429,6 +443,8 @@ https://hls.iranfarda.live/hls/stream.m3u8
 https://isntv.mmdlive.lldns.net/isntv/f79b65204e7141c6a5cc74e63cf0dae5/playlist.m3u8
 #EXTINF:-1 tvg-id="",Jeffrey A Swanson Photography (720p)
 https://app.viloud.tv/hls/channel/07c8b76fa3a98409d527cede85852d55.m3u8
+#EXTINF:-1 tvg-id="JewishLifeTelevision.us",Jewish Life Television
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/jewish-life-television-jltv/playlist.m3u8
 #EXTINF:-1 tvg-id="JohnnyCarsonTV.us",Johnny Carson TV (432p)
 https://johnnycarson-zype.amagi.tv/playlistR432p.m3u8
 #EXTINF:-1 tvg-id="JuventudRenovadaenelEspirituSanto.us",Juventud Renovada en el Espiritu Santo (720p) [Not 24/7]
@@ -439,6 +455,8 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 tvg-id="LaoThaiTV.us",Lao-Thai TV (720p)
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LatinZone.us",Latin Zone TV (720p)
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 #EXTINF:-1 tvg-id="LifevisionTV.us",LifevisionTV (406p) [Not 24/7]
 https://tgn.bozztv.com/lifevision/lifevision/index.m3u8
 #EXTINF:-1 tvg-id="LLBNHisLight.us",Lighting Lives Blessing Nations His Light (LLBN) (720p)
@@ -469,6 +487,8 @@ https://5aafcc5de91f1.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
 https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8
 #EXTINF:-1 tvg-id="Loupe4K.us",Loupe 4K (2160p)
 https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="MadDogandMerrill.us",Mad Dog and Merrill (540p) [Not 24/7]
+https://bozztv.com/gusa/gusa-mwg/index.m3u8
 #EXTINF:-1 tvg-id="MajestadTV.us",Majestad Televisión (480p) [Not 24/7]
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
 #EXTINF:-1 tvg-id="MBCAmerica.us",MBC America (480p)
@@ -485,8 +505,6 @@ https://motors.playout.vju.tv/motors/main.m3u8
 https://sydandmacky.vju.tv/sydandmacky/main.m3u8?test=1
 #EXTINF:-1 tvg-id="MTC.us",MTC (720p)
 https://mtchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="NagoTV.us",Nago TV (240p)
-https://lakay.online/public/nagotv/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="NASATVMedia.us",NASA TV Media (720p)
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-id="NASATVPublic.us",NASA TV Public (720p)
@@ -725,6 +743,68 @@ https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/st
 https://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 #EXTINF:-1 tvg-id="TUTV.us",TUTV
 https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="",TVS Bowling Network (720p)
+https://bozztv.com/gusa/gusa-tvsbowling/index.m3u8
+#EXTINF:-1 tvg-id="TVSBoxing.us",TVS Boxing (360p)
+https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 tvg-id="TVSCipherNetwork.us",TVS Cipher Network (360p)
+https://bozztv.com/gusa/gusa-tvsmystery/index.m3u8
+#EXTINF:-1 tvg-id="TVSClassicMovies.us",TVS Classic Movies (288p)
+https://bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-id="TVSClassicSports.us",TVS Classic Sports (360p)
+https://bozztv.com/gusa/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-id="TVSComedyNetwork.us",TVS Comedy Network (720p)
+https://bozztv.com/gusa/gusa-tvscomedy/index.m3u8
+#EXTINF:-1 tvg-id="TVSDriveInMovie.us",TVS Drive In Movie (360p)
+https://bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 tvg-id="TVSFamilyChannel.us",TVS Family Channel (360p)
+https://bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
+#EXTINF:-1 tvg-id="TVSFilmNoirNetwork.us",TVS Film Noir Network (720p)
+https://bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8
+#EXTINF:-1 tvg-id="",TVS Flashback Network (360p)
+https://bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
+#EXTINF:-1 tvg-id="",TVS Frontier Network (360p)
+https://bozztv.com/gusa/gusa-tvsfrontier/index.m3u8
+#EXTINF:-1 tvg-id="TVSHiTops.us",TVS Hi Tops (720p)
+https://bozztv.com/gusa/gusa-hitops/index.m3u8
+#EXTINF:-1 tvg-id="TVSHollywoodHistory.us",TVS Hollywood History (582p)
+https://bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 tvg-id="TVSMainstreet.us",TVS Mainstreet (360p) [Not 24/7]
+https://bozztv.com/gusa/gusa-tvsmainst/index.m3u8
+#EXTINF:-1 tvg-id="TVSMusicNetwork.us",TVS Music Network (720p)
+https://bozztv.com/gusa/gusa-tvsmusic/index.m3u8
+#EXTINF:-1 tvg-id="TVSNostalgia.us",TVS Nostalgia (472p)
+https://bozztv.com/gusa/gusa-nostalgia/index.m3u8
+#EXTINF:-1 tvg-id="TVSNostalgiaMovies.us",TVS Nostalgia Movies (480p)
+https://bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 tvg-id="TVSPetParadeNetwork.us",TVS Pet Parade Network (360p)
+https://bozztv.com/gusa/gusa-petparadenetwork/index.m3u8
+#EXTINF:-1 tvg-id="TVSQuizShowNetwork.us",TVS Quiz Show Network (720p)
+https://bozztv.com/gusa/gusa-tvsgameshow/index.m3u8
+#EXTINF:-1 tvg-id="TVSSelectNetwork.us",TVS Select Network (720p)
+https://bozztv.com/gusa/gusa-tvsselect/index.m3u8
+#EXTINF:-1 tvg-id="TVSSports.us",TVS Sports (720p) [Not 24/7]
+https://bozztv.com/gusa/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-id="TVSSportsBureau.us",TVS Sports Bureau (720p)
+https://bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 tvg-id="TVSTalkNetwork.us",TVS Talk Network (360p)
+https://bozztv.com/gusa/gusa-TVStalk/index.m3u8
+#EXTINF:-1 tvg-id="TVSTallyHo.us",TVS Tally Ho (360p)
+https://bozztv.com/gusa/gusa-tvstallyho/index.m3u8
+#EXTINF:-1 tvg-id="TVSTavern.us",TVS Tavern (480p)
+https://bozztv.com/gusa/gusa-tavern/index.m3u8
+#EXTINF:-1 tvg-id="TVSTelevisionNetwork.us",TVS Television Network (480p)
+https://bozztv.com/gusa/gusa-tvstn/index.m3u8
+#EXTINF:-1 tvg-id="TVSTravelNetwork.us",TVS Travel Network (720p) [Not 24/7]
+https://bozztv.com/gusa/gusa-tvstravel/index.m3u8
+#EXTINF:-1 tvg-id="TVSTurbo.us",TVS Turbo (360p)
+https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 tvg-id="",TVS Vintage Network (360p)
+https://bozztv.com/gusa/gusa-tvsvintage/index.m3u8
+#EXTINF:-1 tvg-id="TVSWesternMovie.us",TVS Western Movie (270p)
+https://bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-id="TVSWomenSports.us",TVS Women Sports (720p)
+https://bozztv.com/gusa/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-id="UNWebTV.us",UN Web TV (540p)
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="UniMasEast.us",UniMás East [Geo-blocked]
