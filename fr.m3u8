@@ -23,6 +23,8 @@ https://biptv.tv/live/biptvstream_orig/index.m3u8
 http://livevideo.vedge.infomaniak.com/livecast/ik:canal32/manifest.m3u8
 #EXTINF:-1 tvg-id="Canal32.fr",Canal 32 (480p)
 https://edge13.vedge.infomaniak.com/livecast/ik:canal32/manifest.m3u8
+#EXTINF:-1 tvg-id="CDirect.fr",CDirect (360p)
+http://51.254.199.122:8080/cdirectTV/index.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr",Chérie 25 (1080p)
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
 #EXTINF:-1 tvg-id="DBMTV.fr",DBM (1080p)
@@ -41,8 +43,6 @@ https://toonixhls.wns.live/hls/stream.m3u8
 https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-id="HANDICAPTV.fr",HANDICAP TV France
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
-#EXTINF:-1 tvg-id="KTO.fr",KTO (404p) [Not 24/7]
-https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-id="LEspritSorcierTV.fr",L'Esprit Sorcier TV (1080p)
 https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr",Le Figaro IDF
