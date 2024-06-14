@@ -111,11 +111,9 @@ https://tbn-jw.cdn.vustreams.com/live/tbn-uk/live.isml/.m3u8
 https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
 #EXTINF:-1 tvg-id="TJC.uk",TJC (1080p)
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
-#EXTINF:-1 tvg-id="V2BEATTV.uk",V2BEAT (720p) [Not 24/7]
-https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-id="V2BEATTV.uk",V2BEAT (720p) [Not 24/7]
-https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="Bridezillas.uk",Bridezillas
 https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8
 #EXTINF:-1 tvg-id="BBCNewsNorthAmerica.uk",BBC News (North America) (1080p)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyWeather.uk",Sky Weather (1080p)
+http://late-bird-1612.livetube.eu.org/SkyWeather/index.m3u8?token=9TEQXsK2lKdyI3

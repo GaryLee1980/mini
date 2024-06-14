@@ -33,6 +33,8 @@ https://30a-tv.com/feeds/vidaa/cars.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="ABNAfrica.us",ABN Africa (480p)
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
+#EXTINF:-1 tvg-id="ABN.us",ABN Aramaic Broadcasting Network (540p)
+https://rtmp2.abnvideos.com/hls/abnsat.m3u8
 #EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us",ABN Bible Movies (720p)
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 #EXTINF:-1 tvg-id="ABNChina.us",ABN China (720p)
@@ -223,8 +225,6 @@ https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/7345
 https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-id="CBNNews.us",CBN News National (1080p)
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us",CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.us",Channel Yek (720p)
 https://ch1hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Charge.us",Charge! (720p)
@@ -381,8 +381,6 @@ https://cdn3.wowza.com/5/Wi9jakJPdFhPREFj/live/myStream/playlist.m3u8
 https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8
 #EXTINF:-1 tvg-id="",Grit Xtra
 https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GTNNewYork.us",GTN New York (1080p)
-https://tvsw1-hls.secdn.net/tvsw1-chorigin/play/prod-3eebc0944a89469eba873253c04a7129/playlist.m3u8
 #EXTINF:-1 tvg-id="GTNOrlando.us",GTN Orlando (1080p)
 https://tvsw1-hls.secdn.net/tvsw1-chorigin/play/prod-b9be4360b39e4414a5c30e5b0aa667c1/playlist.m3u8
 #EXTINF:-1 tvg-id="GTNSouthFlorida.us",GTN South Florida (1080p)
@@ -603,6 +601,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
 https://cdn-unified-hls.streamspot.com/ingest1/6ec6f5ba47/playlist.m3u8?origin=1
 #EXTINF:-1 tvg-id="SkyTVNewYork.us",Sky TV New York (1080p)
 https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-2cb201942c94460d9356b2c138272263/playlist.m3u8
+#EXTINF:-1 tvg-id="SpiritTV.us",Spirit TV (720p) [Not 24/7]
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 tvg-id="StocktonGovTV.us",Stockton GovTV (Stockton CA) (720p)
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8
 #EXTINF:-1 tvg-id="SUMtvLatino.us",SUMtv Latino (1080p)
@@ -791,10 +791,6 @@ https://bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 https://bozztv.com/gusa/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-id="UNWebTV.us",UN Web TV (540p)
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="UnivisionEast.us",Univision East [Geo-blocked]
-https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?t1=
-#EXTINF:-1 tvg-id="VelayatTVNetwork.us",Velayat TV (480p)
-https://nl.livekadeh.com/hls2/velayattv.m3u8
 #EXTINF:-1 tvg-id="VICETV.us",Vice East
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="VictorValleyTV.us",Victor Valley Movies (1080p) [Not 24/7]
@@ -875,26 +871,18 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 https://srv2.tropicalmoonmedia.com/dreamforcebtltv/dreamforcebtltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Novelisima.us",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
-#EXTINF:-1 tvg-id="NickelodeonEast.us",Nickelodeon East (720p)
-http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="FMTV.us",Frecuencia Musical TV [Not 24/7]
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="MBC3USA.us",MBC 5
 https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8
 #EXTINF:-1 tvg-id="MBC1USA.us",MBC 1
 https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index.m3u8
-#EXTINF:-1 tvg-id="FoxBusinessNetwork.us",FOX Business (1080p)
-http://41.205.93.154/FOXBUSINESS/index.m3u8
 #EXTINF:-1 tvg-id="TheNest.us",The Nest
 https://content.uplynk.com/channel/b468fd41b60840579668c42c096a4103.m3u8
 #EXTINF:-1 tvg-id="TBNPacific.us",TBN Pacific
 https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoWest.us" tvg-shift="10800",Telemundo West (720p)
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
-#EXTINF:-1 tvg-id="NicktoonsEast.us",NickToons (720p)
-http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="TCMEast.us",Turner Classic Movies (TCM) East (720p)
-http://143.244.60.30/TCM/index.m3u8
-#EXTINF:-1 tvg-id="TBSEast.us",TBS East (1080p)
-http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 tvg-id="WCIUDT5.us",Story Television
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="ShemarooBollywood.us",Shemaroo Bollywood (1080p)
