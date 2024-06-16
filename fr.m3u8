@@ -31,10 +31,6 @@ https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
 https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
 #EXTINF:-1 tvg-id="DBMTV.fr",DBM TV (1080p)
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
-#EXTINF:-1 tvg-id="EreTV.fr",Ère TV (1080p)
-https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVCzechSlovak.fr",FashionTV Czech&Slovak (450p) [Not 24/7]
-http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Francophonie24.fr",Francophonie24 (1080p)
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FX2.fr",FX2 Farsi
