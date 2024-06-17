@@ -25,8 +25,6 @@ https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8
 #EXTINF:-1 tvg-id="AtacamaNoticias.cl",Atacama Noticias (720p) [Not 24/7]
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
-#EXTINF:-1 tvg-id="AtacamaTV.cl",Atacama TV (Copiapó) (720p) [Not 24/7]
-https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:-1 tvg-id="AysenTV.cl",Aysen TV (720p)
 https://v1.tustreaming.cl/aysentv/index.m3u8
 #EXTINF:-1 tvg-id="BuinSomosTodos.cl",Buin Somos Todos (720p) [Not 24/7]
@@ -97,6 +95,8 @@ http://live.mundogo.cl/mundo/Molinatv/index.m3u8
 https://marine2.miplay.cl/ntv/playlist.m3u8
 #EXTINF:-1 tvg-id="NuevaRegionTV.cl",Nueva Región TV (720p)
 http://live.mundogo.cl/mundo/Nuevaregion/index.m3u8
+#EXTINF:-1 tvg-id="PandamaxChannel.cl",Pandamax Channel (1080p)
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-id="PichilemuTV.cl",Pichilemu TV (1080p)
 https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
 #EXTINF:-1 tvg-id="PintanaTV.cl",Pintana TV (720p)
@@ -131,10 +131,6 @@ https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Tevex.cl",Tevex (720p) [Not 24/7]
 https://v4.tustreaming.cl/tevexinter/index.m3u8
-#EXTINF:-1 tvg-id="ThemaTelevision.cl",Thema Televisión (La Serena) (720p) [Not 24/7]
-https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ThemaTelevision.cl",Thema Televisión (La Serena) (720p) [Not 24/7]
-https://unlimited6-cl.dps.live/thema/thema.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TMNTV.cl",TMN TV (720p)
 https://v1.tustreaming.cl/tmntv/index.m3u8
 #EXTINF:-1 tvg-id="TNE.cl",TNE (720p) [Not 24/7]
@@ -147,8 +143,6 @@ https://v4.tustreaming.cl/poptv/playlist.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSenado.cl",TV Senado (360p)
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUCT.cl",TV UCT (1080p)
-https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR.cl",TVR (1080p) [Not 24/7]
 https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRCanal11.cl",TVR Canal 11 Curicó (1080p)
