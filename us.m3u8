@@ -291,8 +291,6 @@ https://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8
 #EXTINF:-1 tvg-id="DrGeneScott.us",Dr. Gene Scott (480p)
 https://wescottcc.piksel.tech/Manifest/UTB-NetworkStream.m3u8
-#EXTINF:-1 tvg-id="DreamforceBtl.us",Dreamforce Btl
-https://srv2.tropicalmoonmedia.com/dreamforcebtltv/dreamforcebtltv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Duck Hunting TV
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 #EXTINF:-1 tvg-id="EarthxTV.us",EarthxTV (720p)
@@ -350,6 +348,8 @@ http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 https://news.codeautoplaycdn1.workers.dev/?channel=foxnewschannel&codeby=nd
 #EXTINF:-1 tvg-id="FoxWeather.us",Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-id="FMTV.us",Frecuencia Musical TV [Not 24/7]
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="FreeSpeechTV.us",Free Speech TV (720p)
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 #EXTINF:-1 tvg-id="FunRoads.us",Fun Roads (404p)
@@ -396,8 +396,6 @@ https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-59455895b1214d3893e29a4f536
 https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-d7e7cf219d634e0bbf7d5340b4b537da/playlist.m3u8
 #EXTINF:-1 tvg-id="GuyTubeTV.us",GuyTube TV (1080p)
 https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-55ed6f9cb6d64b22a5eed2ea3f349533/playlist.m3u8
-#EXTINF:-1 tvg-id="HarPalGeo.us",HarPal Geo (360p)
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/index.m3u8
 #EXTINF:-1 tvg-id="HBO2East.us",HBO 2 East (720p)
 https://fl2.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-id="HighVisionTV.ir",High Vision (1080p) [Not 24/7]
@@ -672,8 +670,6 @@ https://fl2.moveonjoy.com/SUNDANCE/index.m3u8
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 #EXTINF:-1 tvg-id="",Talkin Live Classics TV (480p)
 https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tastemade.us",Tastemade (1080p)
-https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="Tastemade.au",Tastemade Australia (1080p)
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TBD.us",TBD. (720p)
@@ -698,6 +694,8 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 #EXTINF:-1 tvg-id="TelemundoWest.us" tvg-shift="10800",Telemundo West (720p)
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
+#EXTINF:-1 tvg-id="TeveVidaNetwork.us",Teve Vida Network (480p) [Not 24/7]
+https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8
 #EXTINF:-1 tvg-id="TheArchive.us",The Archive (1080p)
 https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us
 #EXTINF:-1 tvg-id="TheArchive.us",The Archive (486p)
@@ -712,6 +710,8 @@ https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
 https://thefirst-distroscale.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="",The Grapevine
 https://ov.ottera.tv/live/master.m3u8?channel=mcom_gv_us
+#EXTINF:-1 tvg-id="WYPLTV18.us",The Library Channel TV18 (360p)
+https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-id="TheNest.us",The Nest
 https://content.uplynk.com/channel/b468fd41b60840579668c42c096a4103.m3u8
 #EXTINF:-1 tvg-id="TSC.ca",The Shopping Channel (720p)
@@ -740,8 +740,6 @@ https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
 https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
 #EXTINF:-1 tvg-id="TMTV.us",TM TV (720p)
 https://hls.tmtv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TODAYAllDay.us",TODAY All Day (720p)
-https://ythls.armelin.one/channel/UChDKyKQ59fYz3JO2fl0Z6sg.m3u8
 #EXTINF:-1 tvg-id="TODAYTV.us",Today TV (720p)
 https://todayhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ToonGoggles.us",Toon Goggles (720p)

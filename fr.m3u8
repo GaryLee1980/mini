@@ -23,6 +23,8 @@ https://biptv.tv/live/biptvstream_orig/index.m3u8
 http://livevideo.vedge.infomaniak.com/livecast/ik:canal32/manifest.m3u8
 #EXTINF:-1 tvg-id="Canal32.fr",Canal 32 (480p)
 https://edge13.vedge.infomaniak.com/livecast/ik:canal32/manifest.m3u8
+#EXTINF:-1 tvg-id="CDirect.fr",CDirect (360p)
+http://51.254.199.122:8080/cdirectTV/index.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr",Chérie 25 (1080p)
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
 #EXTINF:-1 tvg-id="DBMTV.fr",DBM (1080p)
@@ -81,8 +83,6 @@ https://sp1564435593.mytvchain.info/live/sp1564435593_360/index.m3u8
 https://videas.agglo-lenslievin.fr/index.m3u8
 #EXTINF:-1 tvg-id="Telenantes.fr",Télénantes (480p)
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Telenantes.m3u8
-#EXTINF:-1 tvg-id="TF1.fr",TF1 (720p) [Geo-blocked]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr",TF1 Séries Films (720p) [Geo-blocked]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.m3u8
 #EXTINF:-1 tvg-id="TFX.fr",TFX (720p) [Geo-blocked]
@@ -97,8 +97,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV78.fr",TV78 (720p)
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
-#EXTINF:-1 tvg-id="TVFinance.fr",TV Finance
-https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR.fr",TVR (Bretagne) (720p)
 https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
 #EXTINF:-1 tvg-id="ViaMatele.fr",ViàMatélé (1080p)
