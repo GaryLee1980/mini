@@ -187,6 +187,8 @@ https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 #EXTINF:-1 tvg-id="",西青新闻综合 (1080p) [Not 24/7]
 http://221.238.209.44:81/hls/live1.m3u8
+#EXTINF:-1 tvg-id="",邯郸公共
+https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 #EXTINF:-1 tvg-id="",邯郸新闻
 https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
 #EXTINF:-1 tvg-id="",邯郸科教

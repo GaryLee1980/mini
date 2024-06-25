@@ -77,8 +77,6 @@ http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
 http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlHorreyaTV.us",Al Horreya TV (720p)
 https://tbn-jw.cdn.vustreams.com/live/al-horreya/live.isml/.m3u8
-#EXTINF:-1 tvg-id="AlFadyTV.us",Al-Fady TV (1080p) [Not 24/7]
-https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Alhurra.us",Alhurra (720p)
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="AlhurraIraq.us",Alhurra Iraq (720p)
@@ -145,6 +143,10 @@ https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="BeachTVPanamaCity.us",Beach TV Panama City (720p)
 https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="BEKNews.us",BEK TV News (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BEKSportsWest.us",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BetterHealthTV.us",Better Health TV (480p)
 https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
 #EXTINF:-1 tvg-id="BetterLifeNatureChannel.us",Better Life Nature Channel (480p)
@@ -213,8 +215,6 @@ https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/7345
 https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-id="CBNNews.us",CBN News National (1080p)
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us",CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #EXTINF:-1 tvg-id="CelebritySceneTV.us",Celebrity Scene TV (720p)
 https://bozztv.com/gusa/gusa-celebrityscene/index.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.us",Channel Yek (720p)
@@ -282,15 +282,17 @@ https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/play
 #EXTINF:-1 tvg-id="DerryTV23.us",DerryTV 23
 https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelEast.us",Disney Channel (720p)
-https://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJuniorEast.us",Disney Jr. (720p)
-https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+https://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXDEast.us",Disney XD (720p)
-https://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="DrGeneScott.us",Dr. Gene Scott (1080p)
 https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8
 #EXTINF:-1 tvg-id="DrGeneScott.us",Dr. Gene Scott (480p)
 https://wescottcc.piksel.tech/Manifest/UTB-NetworkStream.m3u8
+#EXTINF:-1 tvg-id="DreamforceBtl.us",Dreamforce Btl
+https://srv2.tropicalmoonmedia.com/dreamforcebtltv/dreamforcebtltv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Duck Hunting TV
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 #EXTINF:-1 tvg-id="EarthxTV.us",EarthxTV (720p)
@@ -354,10 +356,6 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 #EXTINF:-1 tvg-id="FunRoads.us",Fun Roads (404p)
 http://104.143.4.5:2080/funroads.m3u8
-#EXTINF:-1 tvg-id="FXEast.us",FX East (720p)
-http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-id="FXXEast.us",FXX East (720p)
-http://fl2.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 tvg-id="GanjeHozourTV.us",Ganj e Hozour TV (720p)
 https://media.parvizshahbazi.com/ganjehozour/Main_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GlobalBuddhistNetwork.us",GBN Global Buddhist Network (1080p)
@@ -384,8 +382,6 @@ https://cdn3.wowza.com/5/Wi9jakJPdFhPREFj/live/myStream/playlist.m3u8
 https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8
 #EXTINF:-1 tvg-id="",Grit Xtra
 https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GTNNewYork.us",GTN New York (1080p)
-https://tvsw1-hls.secdn.net/tvsw1-chorigin/play/prod-3eebc0944a89469eba873253c04a7129/playlist.m3u8
 #EXTINF:-1 tvg-id="GTNOrlando.us",GTN Orlando (1080p)
 https://tvsw1-hls.secdn.net/tvsw1-chorigin/play/prod-b9be4360b39e4414a5c30e5b0aa667c1/playlist.m3u8
 #EXTINF:-1 tvg-id="GTNSouthFlorida.us",GTN South Florida (1080p)
@@ -396,8 +392,10 @@ https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-59455895b1214d3893e29a4f536
 https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-d7e7cf219d634e0bbf7d5340b4b537da/playlist.m3u8
 #EXTINF:-1 tvg-id="GuyTubeTV.us",GuyTube TV (1080p)
 https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-55ed6f9cb6d64b22a5eed2ea3f349533/playlist.m3u8
+#EXTINF:-1 tvg-id="HarPalGeo.us",HarPal Geo (360p)
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/index.m3u8
 #EXTINF:-1 tvg-id="HBO2East.us",HBO 2 East (720p)
-https://fl2.moveonjoy.com/HBO_2/index.m3u8
+https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-id="HighVisionTV.ir",High Vision (1080p) [Not 24/7]
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
 #EXTINF:-1 tvg-id="HMIPROMZNEWS.us",HMI PROMZ NEWS (720p)
@@ -454,8 +452,6 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 tvg-id="LaoThaiTV.us",Lao-Thai TV (720p)
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="LatinZone.us",Latin Zone TV (720p)
-https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 #EXTINF:-1 tvg-id="LifevisionTV.us",LifevisionTV (406p) [Not 24/7]
 https://tgn.bozztv.com/lifevision/lifevision/index.m3u8
 #EXTINF:-1 tvg-id="LLBNHisLight.us",Lighting Lives Blessing Nations His Light (LLBN) (720p)
@@ -519,13 +515,13 @@ https://sydandmacky.vju.tv/sydandmacky/main.m3u8?test=1
 #EXTINF:-1 tvg-id="MTC.us",MTC (720p)
 https://mtchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MTV2East.us",MTV2 (720p)
-https://fl2.moveonjoy.com/MTV_2/index.m3u8
+https://fl5.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1 tvg-id="MTVClassicEast.us",MTV Classic (360p)
-https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-id="MTVLive.us",MTV Live (720p)
-https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="",mtvU (480p)
-https://fl2.moveonjoy.com/MTV_U/index.m3u8
+https://fl5.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 tvg-id="NagoTV.us",Nago TV (240p)
 https://lakay.online/public/nagotv/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="NASATVMedia.us",NASA TV Media (720p)
@@ -555,9 +551,9 @@ https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
 #EXTINF:-1 tvg-id="Newsy.us",Newsy (720p)
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 #EXTINF:-1 tvg-id="NickJrEast.us",Nick Jr. East (720p)
-https://fl2.moveonjoy.com/NICK_JR/index.m3u8
+https://fl5.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-id="NickMusic.us",Nick Music (480p)
-http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonEast.us",Nickelodeon East (720p)
 http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="NicktoonsEast.us",NickToons (720p)
@@ -590,8 +586,6 @@ https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456
 https://paraglidingtv.playout.vju.tv/paraglidingtv/main.m3u8
 #EXTINF:-1 tvg-id="PayameAfghanTV.us",Payam-e-Afghan TV (480p) [Not 24/7]
 https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
-#EXTINF:-1 tvg-id="PayameArameshTV.us",Payame Aramesh TV (720p)
-https://hls.keshishhamid.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PayvandTV.us",Payvand TV (720p) [Not 24/7]
 https://bozztv.com/cus01/ucur1/Payvand/index.m3u8
 #EXTINF:-1 tvg-id="PositivTV.us",Positiv (720p)
@@ -665,11 +659,11 @@ https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="SUMtvLatino.us",SUMtv Latino (1080p)
 https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SundanceTVEast.us",SundanceTV East (720p)
-https://fl2.moveonjoy.com/SUNDANCE/index.m3u8
+https://fl5.moveonjoy.com/SUNDANCE/index.m3u8
 #EXTINF:-1 tvg-id="TAGTV.us",TAG TV (1080p) [Not 24/7]
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
-#EXTINF:-1 tvg-id="",Talkin Live Classics TV (480p)
-https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tastemade.us",Tastemade (1080p)
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="Tastemade.au",Tastemade Australia (1080p)
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TBD.us",TBD. (720p)
