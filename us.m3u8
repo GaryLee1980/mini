@@ -77,6 +77,10 @@ http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
 http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlHorreyaTV.us",Al Horreya TV (720p)
 https://tbn-jw.cdn.vustreams.com/live/al-horreya/live.isml/.m3u8
+#EXTINF:-1 tvg-id="AlFadyTV.us",Al-Fady TV (1080p) [Not 24/7]
+https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbdreamsTV.us",AlbDreams TV (720p)
+http://live.albavision.net:1123/live/albdreams.m3u8
 #EXTINF:-1 tvg-id="Alhurra.us",Alhurra (720p)
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="AlhurraIraq.us",Alhurra Iraq (720p)
@@ -113,8 +117,6 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 #EXTINF:-1 tvg-id="ArianaAfghanistanInternationalTV.us",Ariana Afghanistan International TV (720p) [Not 24/7]
 https://iptv.arianaafgtv.com/ariana/playlist.m3u8
-#EXTINF:-1 tvg-id="ATDTV.us",ATD (1080p)
-http://46.99.146.236/0.m3u8
 #EXTINF:-1 tvg-id="AvangTV.us",Avang TV (720p)
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AWEEncore.us",AWE Encore (720p) [Geo-blocked]
@@ -215,6 +217,8 @@ https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/7345
 https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-id="CBNNews.us",CBN News National (1080p)
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us",CBS Sports Golazo Network
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #EXTINF:-1 tvg-id="CelebritySceneTV.us",Celebrity Scene TV (720p)
 https://bozztv.com/gusa/gusa-celebrityscene/index.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.us",Channel Yek (720p)
@@ -382,6 +386,8 @@ https://cdn3.wowza.com/5/Wi9jakJPdFhPREFj/live/myStream/playlist.m3u8
 https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8
 #EXTINF:-1 tvg-id="",Grit Xtra
 https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GTNNewYork.us",GTN New York (1080p)
+https://tvsw1-hls.secdn.net/tvsw1-chorigin/play/prod-3eebc0944a89469eba873253c04a7129/playlist.m3u8
 #EXTINF:-1 tvg-id="GTNOrlando.us",GTN Orlando (1080p)
 https://tvsw1-hls.secdn.net/tvsw1-chorigin/play/prod-b9be4360b39e4414a5c30e5b0aa667c1/playlist.m3u8
 #EXTINF:-1 tvg-id="GTNSouthFlorida.us",GTN South Florida (1080p)
@@ -392,8 +398,6 @@ https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-59455895b1214d3893e29a4f536
 https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-d7e7cf219d634e0bbf7d5340b4b537da/playlist.m3u8
 #EXTINF:-1 tvg-id="GuyTubeTV.us",GuyTube TV (1080p)
 https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-55ed6f9cb6d64b22a5eed2ea3f349533/playlist.m3u8
-#EXTINF:-1 tvg-id="HarPalGeo.us",HarPal Geo (360p)
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/index.m3u8
 #EXTINF:-1 tvg-id="HBO2East.us",HBO 2 East (720p)
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-id="HighVisionTV.ir",High Vision (1080p) [Not 24/7]
@@ -514,8 +518,6 @@ https://motors.playout.vju.tv/motors/main.m3u8
 https://sydandmacky.vju.tv/sydandmacky/main.m3u8?test=1
 #EXTINF:-1 tvg-id="MTC.us",MTC (720p)
 https://mtchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="MTV2East.us",MTV2 (720p)
-https://fl5.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1 tvg-id="MTVClassicEast.us",MTV Classic (360p)
 https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-id="MTVLive.us",MTV Live (720p)
@@ -658,8 +660,6 @@ https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="SUMtvLatino.us",SUMtv Latino (1080p)
 https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SundanceTVEast.us",SundanceTV East (720p)
-https://fl5.moveonjoy.com/SUNDANCE/index.m3u8
 #EXTINF:-1 tvg-id="TAGTV.us",TAG TV (1080p) [Not 24/7]
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 #EXTINF:-1 tvg-id="Tastemade.us",Tastemade (1080p)
@@ -800,8 +800,6 @@ https://bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
 https://bozztv.com/gusa/gusa-TVStalk/index.m3u8
 #EXTINF:-1 tvg-id="TVSTallyHo.us",TVS Tally Ho (360p)
 https://bozztv.com/gusa/gusa-tvstallyho/index.m3u8
-#EXTINF:-1 tvg-id="TVSTavern.us",TVS Tavern (480p)
-https://bozztv.com/gusa/gusa-tavern/index.m3u8
 #EXTINF:-1 tvg-id="TVSTelevisionNetwork.us",TVS Television Network (480p)
 https://bozztv.com/gusa/gusa-tvstn/index.m3u8
 #EXTINF:-1 tvg-id="TVSTravelNetwork.us",TVS Travel Network (720p) [Not 24/7]
