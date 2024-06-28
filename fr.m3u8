@@ -19,12 +19,6 @@ http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 #EXTINF:-1 tvg-id="BIPTV.fr",BIP TV (480p) [Not 24/7]
 https://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF:-1 tvg-id="Canal32.fr",Canal 32 (1080p)
-http://livevideo.vedge.infomaniak.com/livecast/ik:canal32/manifest.m3u8
-#EXTINF:-1 tvg-id="Canal32.fr",Canal 32 (480p)
-https://edge13.vedge.infomaniak.com/livecast/ik:canal32/manifest.m3u8
-#EXTINF:-1 tvg-id="CDirect.fr",CDirect (360p)
-http://51.254.199.122:8080/cdirectTV/index.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr",Chérie 25 (1080p)
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
 #EXTINF:-1 tvg-id="DBMTV.fr",DBM (1080p)
