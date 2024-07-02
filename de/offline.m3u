@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3sat.de",3sat (720p) [Geo-blocked] (HTTP 403 Forbidden)
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 tvg-id="AdriaMusicTelevision.de",ADRIA Music (1080p) (FFMPEG Invalid Data)
+https://cdne.folxplay.tv/folx-trz/streams/ch-1/master.m3u8
+#EXTINF:-1 tvg-id="ANIMALKINGDOM.de",ANIMAL KINGDOM (720p) (HTTP Connection Reset)
+https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
+#EXTINF:-1 tvg-id="AnixeHDSerie.de",Anixe HD Serie (360p) (FFMPEG Undefined Error)
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de",ARD-alpha (720p) (FFMPEG Undefined Error)
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de",ARD-alpha (720p) [Not 24/7] (FFMPEG Undefined Error)
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 tvg-id="arte.de",ARTE (720p) [Geo-blocked] (HTTP 403 Forbidden)
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1 tvg-id="AugsburgTV.de",Augsburg TV (1080p) (FFMPEG Undefined Error)
+https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BadenTV.de",Baden TV (1080p) [Not 24/7] (FFMPEG Undefined Error)
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 tvg-id="BadenTV.de",Baden TV (1080p) [Not 24/7] (FFMPEG Undefined Error)
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BadenTV.de",Baden TV (1080p) [Not 24/7] (HTTP 408 Request Timeout)
+https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BadenTVSud.de",Baden TV Süd (480p) (HTTP 408 Request Timeout)
+https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BibelTV.de",Bibel TV (720p) (FFMPEG Undefined Error)
+https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BRFernsehenNord.de",BR Fernsehen Nord (720p) (FFMPEG Undefined Error)
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="BRFernsehenSud.de",BR Fernsehen Süd (720p) (FFMPEG Undefined Error)
+https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenChemnitz.de",Chemnitz Fernsehen (1080p) (FFMPEG Undefined Error)
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="CiraTV.de",Cira TV (HTTP 408 Request Timeout)
+https://cira-tv.akamaized.net/hls/stream_0.m3u8
+#EXTINF:-1 tvg-id="DasErste.de",Das Erste (1080p) (HTTP 408 Request Timeout)
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1 tvg-id="DasErste.de",Das Erste (1080p) [Geo-blocked] (FFMPEG Undefined Error)
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-id="DASDING908.de",DASDING 90.8 (720p) (FFMPEG Undefined Error)
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+#EXTINF:-1 tvg-id="DeluxeDance.de",Deluxe Dance (1080p) (FFMPEG Undefined Error)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeFlashback.de",Deluxe Flashback (1080p) (FFMPEG Undefined Error)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeLounge.de",Deluxe Lounge (1080p) (FFMPEG Undefined Error)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2489
+#EXTINF:-1 tvg-id="DeluxeMusic.de",Deluxe Music (720p) (FFMPEG Undefined Error)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeRap.de",Deluxe Rap (1080p) (FFMPEG Undefined Error)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-id="",Deluxe Rock (1080p) (FFMPEG Undefined Error)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
+#EXTINF:-1 tvg-id="DerAktionaerTV.de",Der Aktionär TV (720p) (HTTP 404 Not Found)
+https://live2.telvi.de/hls/aktionaertv.m3u8
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de",Deutsches Musik Fernsehen (1080p) [Not 24/7] (FFMPEG Undefined Error)
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 tvg-id="DF1.de",DF1 (720p) (HTTP 403 Forbidden)
+https://dbjwcot8t7nyd.cloudfront.net/out/v1/9d068a9428444b458324ad77b5a0a4b8/index.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenDresden.de",Dresden Fernsehen (1080p) [Not 24/7] (FFMPEG Undefined Error)
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="DWArabic.de",DW Arabic (1080p) (HTTP 408 Request Timeout)
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de",DW English (1080p) (FFMPEG Undefined Error)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de",DW Español (1080p) (FFMPEG Undefined Error)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="EchtJetztTV.de",EchtJetzt TV (720p) (HTTP 408 Request Timeout)
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="emsTVLingen.de",ems TV Lingen (720p) (FFMPEG Undefined Error)
+https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ErzTVStollberg.de",Erz-TV Stollberg (576p) (HTTP 408 Request Timeout)
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EuroAlTV.de",EuroAl TV (720p) (HTTP 408 Request Timeout)
+http://5.135.92.131:1935/live/euroAl/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsGerman.fr",Euronews German (720p) (HTTP 408 Request Timeout)
+https://rakuten-euronews-5-de.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTN.de",EWTN Germany (720p) (HTTP 408 Request Timeout)
+https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Filstalwelle.de",Filstalwelle (1080p) (HTTP 408 Request Timeout)
+https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="FinestTV.de",Finest TV (288p) [Not 24/7] (HTTP 408 Request Timeout)
+https://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 tvg-id="FolxMusicTelevision.de",FOLX Music (1080p) (HTTP 408 Request Timeout)
+https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8
+#EXTINF:-1 tvg-id="FrankenFernsehen.de",Franken Fernsehen (Nürnberg) (1080p) [Not 24/7] (HTTP 408 Request Timeout)
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="",FrankenPlus (1080p) (HTTP 408 Request Timeout)
+https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="GoodSound.de",Good-Sound (720p) (HTTP 408 Request Timeout)
+http://148.251.76.72:8081/goodsound/goodsound.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="h1.de",H1 Fernsehen (1080p) (HTTP 408 Request Timeout)
+https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Hamburg1.de",Hamburg 1 (1080p) (HTTP 408 Request Timeout)
+https://stream.hamburg1.de/live_abr/hamburg1_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Handystar.de",Handystar (404p) [Not 24/7] (HTTP 408 Request Timeout)
+https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
+#EXTINF:-1 tvg-id="HauptstadtTV.de",Hauptstadt.TV (Potsdam) (720p) [Not 24/7] (HTTP 408 Request Timeout)
+https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
+#EXTINF:-1 tvg-id="HopeChannelGerman.de",Hope Channel German (1080p) (HTTP 408 Request Timeout)
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8
