@@ -289,3 +289,37 @@ https://1-fss29-s0.streamhoster.com/lv_goodlife45f1/broadcast1/playlist.m3u8
 https://cdn3.wowza.com/5/Wi9jakJPdFhPREFj/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="GospelTruthTV.us",Gospel Truth TV
 https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8
+#EXTINF:-1 tvg-id="",Grit Xtra
+https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GTNNewYork.us",GTN New York (1080p)
+https://tvsw1-hls.secdn.net/tvsw1-chorigin/play/prod-3eebc0944a89469eba873253c04a7129/playlist.m3u8
+#EXTINF:-1 tvg-id="GTNOrlando.us",GTN Orlando (1080p)
+https://tvsw1-hls.secdn.net/tvsw1-chorigin/play/prod-b9be4360b39e4414a5c30e5b0aa667c1/playlist.m3u8
+#EXTINF:-1 tvg-id="GTNSouthFlorida.us",GTN South Florida (1080p)
+https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-aa4d335124414856b118e943d91132d5/playlist.m3u8
+#EXTINF:-1 tvg-id="GMTV.us",Guyana Music TV (1080p)
+https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-59455895b1214d3893e29a4f536fca3d/playlist.m3u8
+#EXTINF:-1 tvg-id="GuyBaiTV.us",GuyBai TV (1080p)
+https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-d7e7cf219d634e0bbf7d5340b4b537da/playlist.m3u8
+#EXTINF:-1 tvg-id="GuyTubeTV.us",GuyTube TV (1080p)
+https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-55ed6f9cb6d64b22a5eed2ea3f349533/playlist.m3u8
+#EXTINF:-1 tvg-id="HarPalGeo.us",HarPal Geo (360p)
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/index.m3u8
+#EXTINF:-1 tvg-id="HBO2East.us",HBO 2 East (720p)
+https://fl5.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-id="HMIPROMZNEWS.us",HMI PROMZ NEWS (720p)
+https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
+#EXTINF:-1 tvg-id="HollyWire.us",HollyWire (720p)
+https://bozztv.com/hwotta/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="HopeChannelAfrica.us",Hope Channel Africa (1080p)
+https://videodelivery.net/3dab4197cbdc656fa4a498285a3a4d67/manifest/video.m3u8
+#EXTINF:-1 tvg-id="HopeChannelInternational.us",Hope Channel International (1080p)
+https://videodelivery.net/1eaa18c55e2558a400eab00dbde2caca/manifest/video.m3u8
+#EXTINF:-1 tvg-id="HopeChannelNorthAmerica.us",Hope Channel North America (1080p)
+https://videodelivery.net/8dfdf197ede241dd3c8b745a08e039e5/manifest/video.m3u8
+#EXTINF:-1 tvg-id="HSN.us",HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+#EXTINF:-1 tvg-id="HSN2.us",HSN2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+#EXTINF:-1 tvg-id="",HSN West
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8

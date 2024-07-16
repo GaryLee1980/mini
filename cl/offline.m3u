@@ -283,3 +283,13 @@ https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UESTV.cl",UESTV (720p) (HTTP 500 Internal Server Error)
 http://edge1.cl.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="UESTV.cl",UESTV (720p) (HTTP 408 Request Timeout)
+https://tls.cdnz.cl/uestv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="UMAGTV.cl",UMAGTV Televisión (Punta Arenas) (720p) (HTTP 500 Internal Server Error)
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+#EXTINF:-1 tvg-id="VidaTV.cl",Vida TV (1080p) (HTTP Undefined Error)
+http://181.224.64.2:89/vidatv/index.m3u8
+#EXTINF:-1 tvg-id="VisionPlusTV.cl",Visión Plus TV (Melipilla) (720p) [Not 24/7] (HTTP 404 Not Found)
+https://v2.tustreaming.cl/visionplustv/index.m3u8
+#EXTINF:-1 tvg-id="VisionTV.cl",Vision TV (720p) (HTTP 404 Not Found)
+https://5cf4a2c2512a2.streamlock.net/8184/8184/playlist.m3u8

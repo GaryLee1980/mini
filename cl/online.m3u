@@ -123,3 +123,17 @@ http://tv.ulagos.cl/web/live.m3u8
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UESTV.cl",UESTV (720p)
 https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="UMAGTV2.cl",UMAGTV 2 (720p)
+https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="UATV.cl",Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
+https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="UATV.cl",Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
+https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="UTV.cl",UTV (720p)
+https://v2.tustreaming.cl/utv/index.m3u8
+#EXTINF:-1 tvg-id="VClassicTV.cl",V Classic TV (720p)
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1 tvg-id="VCOnline.cl",VC Online (720p)
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+#EXTINF:-1 tvg-id="VozdePoderTelevision.cl",Voz de Poder Television (720p)
+https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8
