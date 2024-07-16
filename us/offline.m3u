@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3ABNProclaimNetwork.us",3ABN Proclaim! Network (720p) (FFMPEG Undefined Error)
+https://3abn-live.akamaized.net/hls/live/2010549/Proclaim/master.m3u8
+#EXTINF:-1 tvg-id="30ADarcizzleOffshore.us",30A Darcizzle Offshore (720p) (FFMPEG Undefined Error)
+https://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 tvg-id="",30A Lionel Nation TV (HTTP 408 Request Timeout)
+https://30a-tv.com/ln.m3u8
+#EXTINF:-1 tvg-id="",30A Television Channel (FFMPEG Undefined Error)
+https://30a-tv.com/feeds/masters/30atv.m3u8
+#EXTINF:-1 tvg-id="30ATheBeachShow.us",30A The Beach Show (720p) (FFMPEG Undefined Error)
+https://30a-tv.com/beachy.m3u8
+#EXTINF:-1 tvg-id="",30A We Love Cars (FFMPEG Undefined Error)
+https://30a-tv.com/feeds/vidaa/cars.m3u8
+#EXTINF:-1 tvg-id="247Retro.us",247 Retro TV (432p) [Not 24/7] (HTTP 408 Request Timeout)
+http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
+#EXTINF:-1 tvg-id="ABNAfghanistan.us",ABN Afghanistan (540p) (HTTP 404 Not Found)
+https://rtmp2.abnvideos.com/hls/abnafghanistan.m3u8
+#EXTINF:-1 tvg-id="ABNUrdu.us",ABN Urdu (540p) (FFMPEG Undefined Error)
+https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
+#EXTINF:-1 tvg-id="AfroLandTV.us",AfroLandTV (1080p) (FFMPEG Undefined Error)
+https://alt-al.otteravision.com/alt/al/al.m3u8
+#EXTINF:-1 tvg-id="AghapyKids.us",Aghapy Kids (1080p) (HTTP Undefined Error)
+https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
+#EXTINF:-1 tvg-id="Akaku53.us",Akaku 53 (Hawaii) (1080p) (HTTP Undefined Error)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
+#EXTINF:-1 tvg-id="Akaku54.us",Akaku 54 (Hawaii) (1080p) (HTTP Undefined Error)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
+#EXTINF:-1 tvg-id="Akaku55.us",Akaku 55 (Hawaii) (1080p) (HTTP Undefined Error)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
+#EXTINF:-1 tvg-id="AKCTV.us",AKC TV (HTTP Undefined Error)
+https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="AKCTV.us",AKC TV (1080p) (HTTP Undefined Error)
+https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us",AKC TV Meet The Breeds (HTTP Undefined Error)
+https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="AKCTVPuppies.us",AKC TV Puppies 24/7 (HTTP Undefined Error)
+https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="AlHorreyaTV.us",Al Horreya TV (1080p) (HTTP Undefined Error)
+http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
+#EXTINF:-1 tvg-id="AlHorreyaTV.us",Al Horreya TV (720p) (HTTP Undefined Error)
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlHorreyaTV.us",Al Horreya TV (720p) (HTTP Undefined Error)
+https://tbn-jw.cdn.vustreams.com/live/al-horreya/live.isml/.m3u8
+#EXTINF:-1 tvg-id="AlFadyTV.us",Al-Fady TV (1080p) [Not 24/7] (HTTP Undefined Error)
+https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlMahdiTV.us",Al-MahdiTV (1080p) (HTTP Undefined Error)
+https://stream.al-mahdi.tv/hls/1234.m3u8
+#EXTINF:-1 tvg-id="AlbdreamsTV.us",AlbDreams TV (720p) (HTTP Undefined Error)
+http://live.albavision.net:1123/live/albdreams.m3u8
+#EXTINF:-1 tvg-id="AlientoVision.us",Aliento Vision (720p) [Not 24/7] (FFMPEG Streams Not Found)
+http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlientoVision.us",Aliento Vision (720p) [Not 24/7] (FFMPEG Streams Not Found)
+http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlkarmaTVFamily.us",Alkarma TV Family (1080p) [Not 24/7] (FFMPEG Undefined Error)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
