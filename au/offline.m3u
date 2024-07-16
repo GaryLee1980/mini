@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2GB.au",2GB Sydney (1080p) (HTTP 403 Forbidden)
+https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
+#EXTINF:-1 tvg-id="3AW.au",3AW Melbourne (1080p) (HTTP 403 Forbidden)
+https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
+#EXTINF:-1 tvg-id="6PR.au",6PR Perth (1080p) (HTTP 403 Forbidden)
+https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
+#EXTINF:-1 tvg-id="9GemSydney.au",9Gem (720p) [Geo-blocked] (FFMPEG Invalid Data)
+https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
+#EXTINF:-1 tvg-id="9GoSydney.au",9Go! (720p) [Geo-blocked] (FFMPEG Invalid Data)
+https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
+#EXTINF:-1 tvg-id="9LifeSydney.au",9Life (720p) [Geo-blocked] (FFMPEG Invalid Data)
+https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
+#EXTINF:-1 tvg-id="9RushSydney.au",9Rush (720p) [Geo-blocked] (FFMPEG Invalid Data)
+https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
+#EXTINF:-1 tvg-id="10BoldSydney.au",10 Bold (720p) [Geo-blocked] (HTTP Undefined Error)
+https://i.mjh.nz/10bold-nsw.m3u8
+#EXTINF:-1 tvg-id="10PeachSydney.au",10 Peach (720p) [Geo-blocked] (HTTP Undefined Error)
+https://i.mjh.nz/10peach-nsw.m3u8
+#EXTINF:-1 tvg-id="Channel7Sydney.au",Channel 7 (720p) [Geo-blocked] (HTTP 403 Forbidden)
+https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
+#EXTINF:-1 tvg-id="Channel9Melbourne.au",Channel 9 Melbourne (720p) [Geo-blocked] (FFMPEG Invalid Data)
+https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
+#EXTINF:-1 tvg-id="Channel9Sydney.au",Channel 9 Sydney (720p) [Geo-blocked] (FFMPEG Invalid Data)
+https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
+#EXTINF:-1 tvg-id="10Sydney.au",Channel 10 (720p) [Geo-blocked] (HTTP Undefined Error)
+https://i.mjh.nz/10-nsw.m3u8
+#EXTINF:-1 tvg-id="JonmoBhumiTV.au",JonmoBhumi TV (720p) [Not 24/7] (HTTP 404 Not Found)
+https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="M4TVMalayalam.au",M4TV Malayalam (1080p) [Not 24/7] (HTTP 408 Request Timeout)
+https://app.m4stream.live/mfourmalayalamhls/live.m3u8
+#EXTINF:-1 tvg-id="",Race Central TV (720p) [Not 24/7] (HTTP 408 Request Timeout)
+https://nrpus.bozztv.com/36bay2/gusa-racecentral/index.m3u8
