@@ -119,6 +119,8 @@ https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
 #EXTINF:-1 tvg-id="PintanaTV.cl",Pintana TV (720p)
 https://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="PuconTV.cl",Pucón TV (1080p) [Not 24/7]
+https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PuranoticiaTV.cl",Puranoticia TV (720p)
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 tvg-id="RadioTributoValentina.cl",Radio Tributo Valentina (720p)
