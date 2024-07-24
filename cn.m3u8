@@ -41,6 +41,8 @@ https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 #EXTINF:-1 tvg-id="",兴隆综合
 https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="",北碚综合 (576p) [Not 24/7]
+http://222.178.181.121:12034/beibei01.m3u8
 #EXTINF:-1 tvg-id="",半岛新闻 (1080p)
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="",吉林7 (900p) [Not 24/7]
@@ -51,6 +53,8 @@ https://stream1.jlntv.cn/xcpd/sd/live.m3u8
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="",孟州电视台 (1080p) [Not 24/7]
 http://live.dxhmt.cn:9081/tv/10883-1.m3u8
+#EXTINF:-1 tvg-id="",宿州公共 (1080p) [Not 24/7]
+http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
 #EXTINF:-1 tvg-id="",宿州新闻综合 (1080p) [Not 24/7]
 http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 #EXTINF:-1 tvg-id="",宿州科教 (1080p) [Not 24/7]
@@ -89,6 +93,10 @@ https://live.wjyanghu.com/live/CH1.m3u8
 https://live.wjyanghu.com/live/CH2.m3u8
 #EXTINF:-1 tvg-id="",江津文化旅游 (576p)
 http://222.179.155.21:1935/ch2.m3u8
+#EXTINF:-1 tvg-id="",江津新闻综合 (480p)
+http://222.179.155.21:1935/ch1.m3u8
+#EXTINF:-1 tvg-id="",江津经济生活 (480p)
+http://222.179.155.21:1935/ch0.m3u8
 #EXTINF:-1 tvg-id="",江苏 Ⅰ 连云港公共 (480p) [Not 24/7]
 https://live.lyg1.com/ggpd/sd/live.m3u8
 #EXTINF:-1 tvg-id="",江苏 Ⅰ 连云港综合 (480p) [Not 24/7]
@@ -171,10 +179,6 @@ http://183.64.181.25:40023/rongchang01.m3u8
 https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 #EXTINF:-1 tvg-id="",蕭山生活頻道 (720p) [Not 24/7]
 https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-#EXTINF:-1 tvg-id="",西藏卫视 (576p)
-http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8
-#EXTINF:-1 tvg-id="",西青新闻综合 (1080p) [Not 24/7]
-http://221.238.209.44:81/hls/live1.m3u8
 #EXTINF:-1 tvg-id="",邯郸公共
 https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 #EXTINF:-1 tvg-id="",邯郸新闻

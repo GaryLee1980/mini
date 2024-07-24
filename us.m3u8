@@ -77,6 +77,8 @@ http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
 https://tbn-jw.cdn.vustreams.com/live/al-horreya/live.isml/.m3u8
 #EXTINF:-1 tvg-id="AlFadyTV.us",Al-Fady TV (1080p) [Not 24/7]
 https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbdreamsTV.us",AlbDreams TV (720p)
+http://live.albavision.net:1123/live/albdreams.m3u8
 #EXTINF:-1 tvg-id="Alhurra.us",Alhurra (720p)
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="AlhurraIraq.us",Alhurra Iraq (720p)
@@ -425,8 +427,6 @@ https://isntv.mmdlive.lldns.net/isntv/f79b65204e7141c6a5cc74e63cf0dae5/playlist.
 https://app.viloud.tv/hls/channel/07c8b76fa3a98409d527cede85852d55.m3u8
 #EXTINF:-1 tvg-id="JewishLifeTelevision.us",Jewish Life Television
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/jewish-life-television-jltv/playlist.m3u8
-#EXTINF:-1 tvg-id="JuventudRenovadaenelEspirituSanto.us",Juventud Renovada en el Espiritu Santo (720p) [Not 24/7]
-http://teleredmcp.com:1935/jrestv/jrestv/playlist.m3u8
 #EXTINF:-1 tvg-id="LaQueBuenaAtlanta.us",La Que Buena Atlanta
 https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
 #EXTINF:-1 tvg-id="LaRosadeGuadalupe.us",La Rosa de Guadalupe
@@ -509,12 +509,12 @@ https://fl5.moveonjoy.com/MTV_2/index.m3u8
 https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="",mtvU (480p)
 https://fl5.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 tvg-id="NagoTV.us",Nago TV (240p)
+https://lakay.online/public/nagotv/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="NASATVMedia.us",NASA TV Media (720p)
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-id="NASATVPublic.us",NASA TV Public (720p)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-id="NASATVUHD.us",NASA TV UHD (2160p)
-https://endpnt.com/hls/nasa4k60/playlist.m3u8
 #EXTINF:-1 tvg-id="NashuaETV.us",Nashua ETV Channel 22 Nashua NH
 https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GovernmentTV16.us",Nashua GTV Channel 16 Nashua NH
@@ -733,8 +733,6 @@ https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 https://bozztv.com/gusa/gusa-tvsmystery/index.m3u8
 #EXTINF:-1 tvg-id="TVSClassicMovies.us",TVS Classic Movies (288p)
 https://bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
-#EXTINF:-1 tvg-id="TVSClassicSports.us",TVS Classic Sports (360p)
-https://bozztv.com/gusa/gusa-tvs/index.m3u8
 #EXTINF:-1 tvg-id="TVSComedyNetwork.us",TVS Comedy Network (720p)
 https://bozztv.com/gusa/gusa-tvscomedy/index.m3u8
 #EXTINF:-1 tvg-id="TVSDriveInMovie.us",TVS Drive In Movie (360p)
@@ -834,3 +832,5 @@ https://d1p0bzoad08w6e.cloudfront.net/encode/nudu.m3u8
 https://d3m10mlzdolmch.cloudfront.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/metv_toon_nr/0d1dbf29e64e47bc991796cc24fbeb97/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralEast.us",Comedy Central East
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 tvg-id="30ARidiculousTV.us",30A Ridiculous TV (720p)
+https://30a-tv.com/feeds/720p/63.m3u8
