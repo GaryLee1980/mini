@@ -499,6 +499,8 @@ https://motors.playout.vju.tv/motors/main.m3u8
 https://sydandmacky.vju.tv/sydandmacky/main.m3u8?test=1
 #EXTINF:-1 tvg-id="MTC.us",MTC (720p)
 https://mtchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MTV2East.us",MTV2 (720p)
+https://fl5.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1 tvg-id="MTVLive.us",MTV Live (720p)
 https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="",mtvU (480p)
@@ -609,8 +611,6 @@ https://735d81460ce14f66bb1b9ebdaebd61ea.mediatailor.us-west-2.amazonaws.com/v1/
 https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
 #EXTINF:-1 tvg-id="SadaEHaqTV.us",Sada-E-Haq TV (720p)
 https://live.relentlessinnovations.net:1936/sadaehaq/sadaehaq/playlist.m3u8
-#EXTINF:-1 tvg-id="ScientologyNetwork.us",Scientology Network (1080p)
-https://stream6.scientology.org/master.m3u8
 #EXTINF:-1 tvg-id="Shabakeh7.us",Shabakeh 7 (576p)
 https://t.northtelecom.org/Shabakeh.m3u8
 #EXTINF:-1 tvg-id="ShalomAmerica.us",Shalom TV (720p) [Not 24/7]
@@ -619,8 +619,6 @@ https://livestreamcdn.net:444/ShalomTV/ShalomTV/playlist.m3u8
 https://shemaroo.codeautoplay.workers.dev/?channel=shemaroobollywood&codeby=nd
 #EXTINF:-1 tvg-id="ShopLC.us",Shop LC (1080p)
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
-#EXTINF:-1 tvg-id="ShopLC.us",Shop LC (1080p)
-https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8
 #EXTINF:-1 tvg-id="ShoutFactoryTV.us",Shout! Factory TV (1080p)
 https://shoutfactory-shoutfactory-zype.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SkwadPlay.us",SKWAD (1080p)
@@ -637,6 +635,8 @@ https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="SUMtvLatino.us",SUMtv Latino (1080p)
 https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SundanceTVEast.us",SundanceTV East (720p)
+https://fl5.moveonjoy.com/SUNDANCE/index.m3u8
 #EXTINF:-1 tvg-id="TAGTV.us",TAG TV (1080p) [Not 24/7]
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 #EXTINF:-1 tvg-id="",Talkin Live Classics TV (480p)
