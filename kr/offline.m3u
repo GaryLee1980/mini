@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ChannelA.kr",Channel A [Geo-blocked] (HTTP 403 Forbidden)
+http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
+#EXTINF:-1 tvg-id="KBS1TV.kr",KBS 1TV [Not 24/7] (HTTP 403 Forbidden)
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 tvg-id="KBS1TV.kr",KBS 1 UHD (720p) (HTTP 400 Bad Request)
+http://202.60.106.14:8080/200/playlist.m3u8
+#EXTINF:-1 tvg-id="KBS1TV.kr",KBS 1 UHD (720p) (HTTP 400 Bad Request)
+http://202.60.106.14:21585/200/playlist.m3u8
+#EXTINF:-1 tvg-id="KBS2TV.kr",KBS 2TV [Not 24/7] (HTTP 403 Forbidden)
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-id="KBSWorld.kr",KBS World (Vietnamese Subtitles) (720p) (HTTP 403 Forbidden)
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr",KBS World HD (1080p) (HTTP 404 Not Found)
+https://ctrl.laotv.la/live/KBS/index.m3u8
+#EXTINF:-1 tvg-id="KShopping.kr",KShopping (1080p) (HTTP 403 Forbidden)
+https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HLAWDTV.kr",MBC Andong (안동 MBC) (360p) [Not 24/7] (HTTP 404 Not Found)
+http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+#EXTINF:-1 tvg-id="HLKUDTV.kr",MBC Busan (부산MBC) (360p) [Not 24/7] (HTTP Connection Reset)
+https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLANDTV.kr",MBC Chuncheon (춘천 MBC) (480p) [Not 24/7] (HTTP 404 Not Found)
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLCTDTV.kr",MBC Daegu (대구 MBC) (480p) [Not 24/7] (HTTP 404 Not Found)
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:-1 tvg-id="HLCQDTV.kr",MBC Daejeon (대전 MBC) (720p) [Not 24/7] (HTTP 404 Not Found)
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCDrama.kr",MBC Drama (480p) [Geo-blocked] (HTTP 404 Not Found)
+http://mytv.dothome.co.kr/ch/catv/26.php
+#EXTINF:-1 tvg-id="HLCNDTV.kr",MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7] (HTTP 408 Request Timeout)
+https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCGyeongnamTV.kr",MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7] (HTTP 404 Not Found)
+https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLAJDTV.kr",MBC Jeju (제주 MBC) (352p) [Not 24/7] (HTTP 500 Internal Server Error)
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-1 tvg-id="HLAMDTV.kr",MBC Mokpo (목포 MBC) (720p) [Not 24/7] (HTTP 404 Not Found)
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCNet.kr",MBC Net (480p) [Geo-blocked] (HTTP 403 Forbidden)
+http://mytv.dothome.co.kr/ch/catv/28.php
+#EXTINF:-1 tvg-id="HLATDTV.kr",MBC Yeosu (여수 MBC) (1080p) [Not 24/7] (HTTP 404 Not Found)
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MTN.kr",MTN (720p) (HTTP 403 Forbidden)
+http://183.110.27.87/mtnlive/720/playlist.m3u8
+#EXTINF:-1 tvg-id="OCN.kr",OCN (576p) (HTTP 400 Bad Request)
+http://202.60.106.14:8080/207/playlist.m3u8
+#EXTINF:-1 tvg-id="OCN.kr",OCN (576p) (HTTP 400 Bad Request)
+http://202.60.106.14:21585/207/playlist.m3u8
+#EXTINF:-1 tvg-id="HLKJDTV.kr",SBS JIBS (720p) [Not 24/7] (HTTP 404 Not Found)
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1 tvg-id="HLDQDTV.kr",SBS JTV (406p) [Not 24/7] (HTTP 404 Not Found)
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLDHDTV.kr",SBS KBC (1080p) [Not 24/7] (HTTP 404 Not Found)
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HLDGDTV.kr",SBS KNN (450p) [Not 24/7] (HTTP 408 Request Timeout)
+http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
