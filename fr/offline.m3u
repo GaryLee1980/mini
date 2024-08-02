@@ -1,3 +1,39 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ADNTVPlus.fr",ADN TV+ (1080p) [Geo-Blocked] (FFMPEG Invalid Data)
 https://samsunguk-adn-samsung-fre-qfrlc.amagi.tv/playlist/samsunguk-adn-samsung-fre/playlist.m3u8
+#EXTINF:-1 tvg-id="AssembleeNationale.fr",Assemblée Nationale (1080p) [Not 24/7] (HTTP 404 Not Found)
+http://anorigin.vodalys.com/live/live36/index36_12856975.m3u8?DVR=
+#EXTINF:-1 tvg-id="BrionnaisTV.fr",Brionnais TV (HTTP 403 Forbidden)
+https://live.mandarine.media/BrionnaisTV/BrionnaisTV/playlist.m3u8
+#EXTINF:-1 tvg-id="C8.fr",C8 (480p) (HTTP 404 Not Found)
+http://www.callofliberty.fr/stream/C8/master.m3u8
+#EXTINF:-1 tvg-id="CentralTV.fr",Central TV (614p) [Not 24/7] (HTTP 404 Not Found)
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cherie25.fr",Chérie 25 (1080p) (HTTP 404 Not Found)
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
+#EXTINF:-1 tvg-id="D5tv.fr",D5tv (1080p) (HTTP 404 Not Found)
+https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="France24English.fr",France 24 English (1080p) (HTTP 408 Request Timeout)
+http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="Francophonie24.fr",Francophonie (360p) (HTTP 404 Not Found)
+http://mv2.tvfrancophonie.org/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="FunRadio.fr",Fun Radio (720p) (HTTP 404 Not Found)
+https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
+#EXTINF:-1 tvg-id="HolyGodTV.fr",HolyGod TV (720p) (HTTP 404 Not Found)
+https://128989.gvideo.io/streams/128989_522806/playlist.m3u8
+#EXTINF:-1 tvg-id="ILTV.fr",ILTV (720p) (HTTP 403 Forbidden)
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LEquipe.fr",L'Equipe (HTTP 403 Forbidden)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
+#EXTINF:-1 tvg-id="",L'Equipe Live 1 (HTTP 400 Bad Request)
+https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
+#EXTINF:-1 tvg-id="",L'Equipe Live 2 (HTTP 400 Bad Request)
+https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
+#EXTINF:-1 tvg-id="MTV.fr",MTV France (720p) [Not 24/7] (HTTP Undefined Error)
+http://190.2.155.162:8080/mtvfrance/mpegts
+#EXTINF:-1 tvg-id="MTVHits.fr",MTV Hits France (720p) (HTTP 403 Forbidden)
+http://178.170.47.109/MTVHITS/index.m3u8
+#EXTINF:-1 tvg-id="MTVHits.fr",MTV Hits France (720p) [Not 24/7] (HTTP Undefined Error)
+http://190.2.155.162:8080/mtvhit/mpegts
+#EXTINF:-1 tvg-id="NLMTV.fr",NLM TV (720p) (HTTP 404 Not Found)
+https://ktismaservers.in:3394/stream/play.m3u8

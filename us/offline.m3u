@@ -73,3 +73,29 @@ https://bcovlive-a.akamaihd.net/7304338dca7a4c91b8f0504de0342687/us-east-1/62407
 https://isntv.mmdlive.lldns.net/isntv/f79b65204e7141c6a5cc74e63cf0dae5/playlist.m3u8
 #EXTINF:-1 tvg-id="JBS.us",JBS (404p) [Not 24/7] (FFMPEG Undefined Error)
 http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+#EXTINF:-1 tvg-id="JBS.us",JBS (404p) [Not 24/7] (FFMPEG Undefined Error)
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="JBS.us",JBS (404p) [Not 24/7] (HTTP 408 Request Timeout)
+https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+#EXTINF:-1 tvg-id="JewelryTV.us",Jewelry Television (720p) (HTTP 404 Not Found)
+https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="JewelryTVExtra.us",Jewelry TV Extra (720p) (HTTP 404 Not Found)
+https://cdn3.wowza.com/1/NFJZMzNuclBoQ2pz/Q1FrME42/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="JohnnyCarsonTV.us",Johnny Carson TV (432p) (HTTP 403 Forbidden)
+https://johnnycarson-zype.amagi.tv/playlistR432p.m3u8
+#EXTINF:-1 tvg-id="JuventudRenovadaenelEspirituSanto.us",Juventud Renovada en el Espiritu Santo (720p) [Not 24/7] (HTTP 404 Not Found)
+http://teleredmcp.com:1935/jrestv/jrestv/playlist.m3u8
+#EXTINF:-1 tvg-id="LaRosadeGuadalupe.us",La Rosa de Guadalupe (HTTP 500 Internal Server Error)
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LawCrime.us",Law & Crime (720p) (HTTP Undefined Error)
+https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8
+#EXTINF:-1 tvg-id="LogosTV.us",Logos TV Mubasher (1080p) [Not 24/7] (HTTP 404 Not Found)
+https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/playlist.m3u8
+#EXTINF:-1 tvg-id="LogosTV.us",Logos TV Mubasher (1080p) [Not 24/7] (HTTP 404 Not Found)
+https://58cc65c534c67.streamlock.net/logoschannel.com/logoshym/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveWorldUSA.us",LoveWorld USA (720p) (HTTP 404 Not Found)
+https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/lwut/ngrp:lwu.rtmp_all/playlist.m3u8
+#EXTINF:-1 tvg-id="",MAVTV Motor Sports IN (HTTP 504 Gateway Timeout)
+https://84f081227bc1418984b9e3dcaa985b2b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_MAVTVMotorSportsNetwork/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCAmerica.us",MBC America (480p) (HTTP Undefined Error)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8

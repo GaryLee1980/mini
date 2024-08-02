@@ -5,3 +5,7 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 #EXTINF:-1 tvg-id="DragonTVInternational.cn",Dragon TV International (360p)
 http://210.210.155.37/x6bnqe/s/s29/index.m3u8
+#EXTINF:-1 tvg-id="",Fusung News TV
+http://stream8.jlntv.cn/fs/sd/live.m3u8
+#EXTINF:-1 tvg-id="LiangshanTV.cn",Liangshan TV [Not 24/7]
+http://118.122.2.29:9999/hls/47/index.m3u8

@@ -75,3 +75,21 @@ http://60.175.115.119:1935/live/wenhua/playlist.m3u8
 http://60.175.115.119:1935/live/zonghe/playlist.m3u8
 #EXTINF:-1 tvg-id="",Foochow Children TV (FFMPEG Undefined Error)
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1 tvg-id="",Foochow TV-1 News (FFMPEG Undefined Error)
+http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+#EXTINF:-1 tvg-id="",Foochow TV-2 TV Series (HTTP 404 Not Found)
+http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+#EXTINF:-1 tvg-id="",Foochow TV-3 Life (FFMPEG Undefined Error)
+http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
+#EXTINF:-1 tvg-id="",Fooshun Public TV (HTTP 403 Forbidden)
+http://pili-live-rtmp.145.i2863.com/i2863-145/fsggpd.m3u8
+#EXTINF:-1 tvg-id="",Foshan News TV (HTTP 502 Bad Gateway)
+http://dslive.grtn.cn/fszh/sd/live.m3u8
+#EXTINF:-1 tvg-id="",Fuling TV (HTTP 404 Not Found)
+http://pili-live-hls.cqfl.tianma3600.com/wxfl/flds.m3u8
+#EXTINF:-1 tvg-id="",Fuping TV-1 (HTTP 408 Request Timeout)
+http://124.47.34.189/wh7f454c46tw749339647_705237419/PLTV/88888888/224/3221225905/index.m3u8?RTS=1640046896&from=1&hms_devid=203&icpid=88888888
+#EXTINF:-1 tvg-id="",Fuping TV-2 (HTTP 408 Request Timeout)
+http://124.47.34.188/wh7f454c46tw1412774635_659925561/PLTV/88888888/224/3221225906/index.m3u8?RTS=1640099099&from=1&hms_devid=203&icpid=88888888
+#EXTINF:-1 tvg-id="LasaTV.cn",Lasa TV (HTTP 500 Internal Server Error)
+http://220.182.45.198:20088/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
