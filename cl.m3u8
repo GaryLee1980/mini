@@ -59,8 +59,6 @@ https://cp.panelchs.com:1936/8118/8118/playlist.m3u8
 http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ChiloeRed25.cl",Chiloe Red 25
 https://v2.tustreaming.cl/chiloered/index.m3u8
-#EXTINF:-1 tvg-id="ClickTVChile.cl",Click TV (Coronel) (720p)
-https://v2.tustreaming.cl/clicktv/playlist.m3u8
 #EXTINF:-1 tvg-id="CosmosTV.cl",Cosmos TV (720p)
 https://v1.tustreaming.cl/cosmostv/index.m3u8
 #EXTINF:-1 tvg-id="DanceFM.cl",Dance FM (720p)
@@ -79,8 +77,6 @@ http://live.mundogo.cl/mundo/Tipografo/index.m3u8
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
 #EXTINF:-1 tvg-id="FanpopTV.cl",Fanpop TV
 https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
-#EXTINF:-1 tvg-id="Girovisual.cl",Girovisual (720p)
-https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HiperconectadosTV.cl",Hiperconectados TV
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 #EXTINF:-1 tvg-id="HolvoetTV.cl",Holvoet TV (Copiapó) (720p) [Not 24/7]
@@ -107,6 +103,8 @@ https://marine2.miplay.cl/ntv/playlist.m3u8
 http://live.mundogo.cl/mundo/Nuevaregion/index.m3u8
 #EXTINF:-1 tvg-id="PichilemuTV.cl",Pichilemu TV (1080p)
 https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
+#EXTINF:-1 tvg-id="PuconTV.cl",Pucón TV (1080p) [Not 24/7]
+https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PuranoticiaTV.cl",Puranoticia TV (720p)
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 tvg-id="RadioTributoValentina.cl",Radio Tributo Valentina (720p)
@@ -143,8 +141,12 @@ https://v1.tustreaming.cl/tmntv/index.m3u8
 https://marine2.miplay.cl/tateti/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPop.cl",TV Pop (720p)
 https://v4.tustreaming.cl/poptv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal2Quellon.cl",TV Quellón (1080p) [Not 24/7]
+https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSenado.cl",TV Senado (360p)
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUCT.cl",TV UCT (1080p)
+https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR.cl",TVR (1080p) [Not 24/7]
 https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVU.cl",TVU Concepción (1080p)
@@ -155,6 +157,10 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="UMAGTV2.cl",UMAGTV 2 (720p)
 https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="UATV.cl",Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
+https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="UATV.cl",Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
+https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UTV.cl",UTV (720p)
 https://v2.tustreaming.cl/utv/index.m3u8
 #EXTINF:-1 tvg-id="VClassicTV.cl",V Classic TV (720p)

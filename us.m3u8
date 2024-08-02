@@ -293,6 +293,8 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNAsiaPacific.us",EWTN Asia-Pacific (720p) [Not 24/7]
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us",EWTN el Canal Católico (720p) [Not 24/7]
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNEstadosUnidos.us",EWTN Estados Unidos (Spanish) (720p)
 https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNEurope.us",EWTN Europe (720p) [Not 24/7]
@@ -303,6 +305,8 @@ https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="EYE95America.us",EYE95 America (1080p) [Not 24/7]
 https://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+#EXTINF:-1 tvg-id="FashionFinds.us",Fashion Finds
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
 #EXTINF:-1 tvg-id="Fite.us",Fite (720p) [Not 24/7]
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 tvg-id="",Flowers TV USA
@@ -627,14 +631,14 @@ https://tbn-jw.cdn.vustreams.com/live/enlace/live.isml/playlist.m3u8
 https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/.m3u8
 #EXTINF:-1 tvg-id="TBNPacific.us",TBN Pacific
 https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
-#EXTINF:-1 tvg-id="TDAmeritradeNetwork.us",TD Ameritrade Network (1080p)
-https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
 #EXTINF:-1 tvg-id="TechnoWarehouse.us",Techno Warehouse (US) (1080p) [Not 24/7]
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
 #EXTINF:-1 tvg-id="TeleBoston.us",Tele Boston (480p)
 http://rtb.srfms.com:3333/live/telebostonrtb/playlist.m3u8
 #EXTINF:-1 tvg-id="WBQCLD1.us",Telemundo East (480p)
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+#EXTINF:-1 tvg-id="TeveVidaNetwork.us",Teve Vida Network (480p) [Not 24/7]
+https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8
 #EXTINF:-1 tvg-id="TheArchive.us",The Archive (1080p)
 https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us
 #EXTINF:-1 tvg-id="TheArchive.us",The Archive (486p)
@@ -685,12 +689,8 @@ https://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="",TVS Bowling Network (720p)
 https://bozztv.com/gusa/gusa-tvsbowling/index.m3u8
-#EXTINF:-1 tvg-id="TVSBoxing.us",TVS Boxing (360p)
-https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-id="TVSCipherNetwork.us",TVS Cipher Network (360p)
 https://bozztv.com/gusa/gusa-tvsmystery/index.m3u8
-#EXTINF:-1 tvg-id="TVSClassicMovies.us",TVS Classic Movies (288p)
-https://bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
 #EXTINF:-1 tvg-id="TVSClassicSports.us",TVS Classic Sports (360p)
 https://bozztv.com/gusa/gusa-tvs/index.m3u8
 #EXTINF:-1 tvg-id="TVSComedyNetwork.us",TVS Comedy Network (720p)
@@ -705,8 +705,6 @@ https://bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
 https://bozztv.com/gusa/gusa-tvsfrontier/index.m3u8
 #EXTINF:-1 tvg-id="TVSHiTops.us",TVS Hi Tops (720p)
 https://bozztv.com/gusa/gusa-hitops/index.m3u8
-#EXTINF:-1 tvg-id="TVSHollywoodHistory.us",TVS Hollywood History (582p)
-https://bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
 #EXTINF:-1 tvg-id="TVSMainstreet.us",TVS Mainstreet (360p) [Not 24/7]
 https://bozztv.com/gusa/gusa-tvsmainst/index.m3u8
 #EXTINF:-1 tvg-id="TVSMusicNetwork.us",TVS Music Network (720p)
@@ -727,8 +725,6 @@ https://bozztv.com/gusa/gusa-TVStalk/index.m3u8
 https://bozztv.com/gusa/gusa-tvstallyho/index.m3u8
 #EXTINF:-1 tvg-id="TVSTavern.us",TVS Tavern (480p)
 https://bozztv.com/gusa/gusa-tavern/index.m3u8
-#EXTINF:-1 tvg-id="TVSTelevisionNetwork.us",TVS Television Network (480p)
-https://bozztv.com/gusa/gusa-tvstn/index.m3u8
 #EXTINF:-1 tvg-id="TVSTravelNetwork.us",TVS Travel Network (720p) [Not 24/7]
 https://bozztv.com/gusa/gusa-tvstravel/index.m3u8
 #EXTINF:-1 tvg-id="TVSTurbo.us",TVS Turbo (360p)
