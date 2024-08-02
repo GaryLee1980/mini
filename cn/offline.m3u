@@ -9,8 +9,6 @@ http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8
 http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="",BesTV超级 (576p) (HTTP 408 Request Timeout)
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
-#EXTINF:-1 tvg-id="BreadTV.cn",Bread TV面包台 (720p) (HTTP 408 Request Timeout)
-https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="BRTVKakuChildrensChannel.cn",BRTV Kaku Childrens Channel (HTTP 404 Not Found)
 http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn",CCTV-1 (1080p) (HTTP 408 Request Timeout)
@@ -37,3 +35,43 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/inde
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 #EXTINF:-1 tvg-id="CCTV7.cn",CCTV-7 (1080p) (HTTP 408 Request Timeout)
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8.cn",CCTV-8 (1080p) (HTTP 408 Request Timeout)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8.cn",CCTV-8 (1080p) (HTTP 408 Request Timeout)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9.cn",CCTV-9 (1080p) (HTTP 408 Request Timeout)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9.cn",CCTV-9 (1080p) (HTTP 408 Request Timeout)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10.cn",CCTV-10 (1080p) (HTTP 408 Request Timeout)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13.cn",CCTV-13 (1080p) (HTTP 408 Request Timeout)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13.cn",CCTV-13 (1080p) (HTTP 408 Request Timeout)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14.cn",CCTV-14 (1080p) (HTTP 408 Request Timeout)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15.cn",CCTV-15 (1080p) (HTTP 408 Request Timeout)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15.cn",CCTV-15音乐 (HTTP 408 Request Timeout)
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16.cn",CCTV-16 (1080p) (HTTP 408 Request Timeout)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16.cn",CCTV-16 (1080p) (HTTP 408 Request Timeout)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16.cn",CCTV-16 (1080p) (HTTP 408 Request Timeout)
+http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
+#EXTINF:-1 tvg-id="CETV1.cn",CETV1 (576p) (HTTP 408 Request Timeout)
+http://183.207.248.71/gitv/live1/G_CETV-1/G_CETV-1
+#EXTINF:-1 tvg-id="CETV2.cn",CETV2 (576p) (HTTP 408 Request Timeout)
+http://183.207.248.71/gitv/live1/G_CETV-2/G_CETV-2
+#EXTINF:-1 tvg-id="",CETV-1 (HTTP 408 Request Timeout)
+http://121.19.134.246:808/hls/62/index.m3u8
+#EXTINF:-1 tvg-id="CNCWorldEnglish.cn",CNC中文 (720p) [Not 24/7] (HTTP 404 Not Found)
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+#EXTINF:-1 tvg-id="",Fengtai Culture & Life TV (HTTP 500 Internal Server Error)
+http://60.175.115.119:1935/live/wenhua/playlist.m3u8
+#EXTINF:-1 tvg-id="",Fengtai News TV (HTTP 500 Internal Server Error)
+http://60.175.115.119:1935/live/zonghe/playlist.m3u8
+#EXTINF:-1 tvg-id="",Foochow Children TV (FFMPEG Undefined Error)
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
