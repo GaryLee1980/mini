@@ -289,8 +289,6 @@ https://eyeonesports.com/ES2RA-628g.m3u8
 https://livecdn.live247stream.com/eternallife/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Everyday Refresh
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
-#EXTINF:-1 tvg-id="EWTNAfricaAsia.us",EWTN Africa Asia (720p)
-https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNAsiaPacific.us",EWTN Asia-Pacific (720p) [Not 24/7]
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us",EWTN el Canal Católico (720p) [Not 24/7]
@@ -411,6 +409,8 @@ https://hls.iranfarda.live/hls/stream.m3u8
 https://app.viloud.tv/hls/channel/07c8b76fa3a98409d527cede85852d55.m3u8
 #EXTINF:-1 tvg-id="JewishLifeTelevision.us",Jewish Life Television
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/jewish-life-television-jltv/playlist.m3u8
+#EXTINF:-1 tvg-id="JuventudRenovadaenelEspirituSanto.us",Juventud Renovada en el Espiritu Santo (720p) [Not 24/7]
+http://teleredmcp.com:1935/jrestv/jrestv/playlist.m3u8
 #EXTINF:-1 tvg-id="LaQueBuenaAtlanta.us",La Que Buena Atlanta
 https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
 #EXTINF:-1 tvg-id="LacrosseTV.us",Lacrosse TV (720p)
@@ -585,8 +585,6 @@ https://735d81460ce14f66bb1b9ebdaebd61ea.mediatailor.us-west-2.amazonaws.com/v1/
 https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
 #EXTINF:-1 tvg-id="SadaEHaqTV.us",Sada-E-Haq TV (720p)
 https://live.relentlessinnovations.net:1936/sadaehaq/sadaehaq/playlist.m3u8
-#EXTINF:-1 tvg-id="ScientologyNetwork.us",Scientology Network (1080p)
-https://stream6.scientology.org/master.m3u8
 #EXTINF:-1 tvg-id="Shabakeh7.us",Shabakeh 7 (576p)
 https://t.northtelecom.org/Shabakeh.m3u8
 #EXTINF:-1 tvg-id="ShalomAmerica.us",Shalom TV (720p) [Not 24/7]
@@ -637,8 +635,6 @@ https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
 http://rtb.srfms.com:3333/live/telebostonrtb/playlist.m3u8
 #EXTINF:-1 tvg-id="WBQCLD1.us",Telemundo East (480p)
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
-#EXTINF:-1 tvg-id="TeveVidaNetwork.us",Teve Vida Network (480p) [Not 24/7]
-https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8
 #EXTINF:-1 tvg-id="TheArchive.us",The Archive (1080p)
 https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us
 #EXTINF:-1 tvg-id="TheArchive.us",The Archive (486p)
@@ -689,12 +685,14 @@ https://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="",TVS Bowling Network (720p)
 https://bozztv.com/gusa/gusa-tvsbowling/index.m3u8
+#EXTINF:-1 tvg-id="TVSBoxing.us",TVS Boxing (360p)
+https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-id="TVSCipherNetwork.us",TVS Cipher Network (360p)
 https://bozztv.com/gusa/gusa-tvsmystery/index.m3u8
+#EXTINF:-1 tvg-id="TVSClassicMovies.us",TVS Classic Movies (288p)
+https://bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
 #EXTINF:-1 tvg-id="TVSClassicSports.us",TVS Classic Sports (360p)
 https://bozztv.com/gusa/gusa-tvs/index.m3u8
-#EXTINF:-1 tvg-id="TVSComedyNetwork.us",TVS Comedy Network (720p)
-https://bozztv.com/gusa/gusa-tvscomedy/index.m3u8
 #EXTINF:-1 tvg-id="TVSDriveInMovie.us",TVS Drive In Movie (360p)
 https://bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
 #EXTINF:-1 tvg-id="TVSFamilyChannel.us",TVS Family Channel (360p)
@@ -705,14 +703,14 @@ https://bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
 https://bozztv.com/gusa/gusa-tvsfrontier/index.m3u8
 #EXTINF:-1 tvg-id="TVSHiTops.us",TVS Hi Tops (720p)
 https://bozztv.com/gusa/gusa-hitops/index.m3u8
+#EXTINF:-1 tvg-id="TVSHollywoodHistory.us",TVS Hollywood History (582p)
+https://bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
 #EXTINF:-1 tvg-id="TVSMainstreet.us",TVS Mainstreet (360p) [Not 24/7]
 https://bozztv.com/gusa/gusa-tvsmainst/index.m3u8
 #EXTINF:-1 tvg-id="TVSMusicNetwork.us",TVS Music Network (720p)
 https://bozztv.com/gusa/gusa-tvsmusic/index.m3u8
 #EXTINF:-1 tvg-id="TVSNostalgia.us",TVS Nostalgia (472p)
 https://bozztv.com/gusa/gusa-nostalgia/index.m3u8
-#EXTINF:-1 tvg-id="TVSNostalgiaMovies.us",TVS Nostalgia Movies (480p)
-https://bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
 #EXTINF:-1 tvg-id="TVSPetParadeNetwork.us",TVS Pet Parade Network (360p)
 https://bozztv.com/gusa/gusa-petparadenetwork/index.m3u8
 #EXTINF:-1 tvg-id="TVSQuizShowNetwork.us",TVS Quiz Show Network (720p)
@@ -725,6 +723,8 @@ https://bozztv.com/gusa/gusa-TVStalk/index.m3u8
 https://bozztv.com/gusa/gusa-tvstallyho/index.m3u8
 #EXTINF:-1 tvg-id="TVSTavern.us",TVS Tavern (480p)
 https://bozztv.com/gusa/gusa-tavern/index.m3u8
+#EXTINF:-1 tvg-id="TVSTelevisionNetwork.us",TVS Television Network (480p)
+https://bozztv.com/gusa/gusa-tvstn/index.m3u8
 #EXTINF:-1 tvg-id="TVSTravelNetwork.us",TVS Travel Network (720p) [Not 24/7]
 https://bozztv.com/gusa/gusa-tvstravel/index.m3u8
 #EXTINF:-1 tvg-id="TVSTurbo.us",TVS Turbo (360p)
