@@ -111,3 +111,19 @@ https://3abn-live.akamaized.net/hls/live/2010545/D2D/master.m3u8
 http://iran620.com:1935/derakhte-zendegi/test/playlist.m3u8
 #EXTINF:-1 tvg-id="ElMaqar.us",El Maqar (1080p) (HTTP 408 Request Timeout)
 http://135.181.79.179/ElmaqarTVHD/playlist.m3u8?token=mobileuser
+#EXTINF:-1 tvg-id="EMTMediaTV.us",EMT Media TV (HTTP 404 Not Found)
+https://hls-cdn.tvstartup17.net/tvstartup17-channel/live/mp4:emtmediaedge/playlist.m3u8
+#EXTINF:-1 tvg-id="EVTVMiami.us",EVTV Miami (720p) [Not 24/7] (HTTP 404 Not Found)
+https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/playlist.m3u8
+#EXTINF:-1 tvg-id="FastwayNews.us",FASTWAY NEWS (720p) [Not 24/7] (HTTP 404 Not Found)
+http://163.47.214.155:1935/fwnews/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FXEast.us",FX East (720p) (HTTP 404 Not Found)
+http://fl5.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-id="FXXEast.us",FXX East (720p) (HTTP 404 Not Found)
+http://fl5.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-id="GenesisTelevision.us",Genesis TV (720p) [Not 24/7] (HTTP 408 Request Timeout)
+http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="GlobalLinkVision.us",GLV (HTTP 404 Not Found)
+https://38b3095.online-server.cloud/hls/live.m3u8
+#EXTINF:-1 tvg-id="grvty.us",grvty (1080p) (FFMPEG Invalid Data)
+https://d37j5jg7ob6kji.cloudfront.net/index.m3u8
