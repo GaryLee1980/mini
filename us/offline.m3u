@@ -127,3 +127,101 @@ http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
 https://38b3095.online-server.cloud/hls/live.m3u8
 #EXTINF:-1 tvg-id="grvty.us",grvty (1080p) (FFMPEG Invalid Data)
 https://d37j5jg7ob6kji.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="IFCEast.us",IFC East (1080p) (HTTP 403 Forbidden)
+https://bcovlive-a.akamaihd.net/7304338dca7a4c91b8f0504de0342687/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="JBS.us",JBS (404p) [Not 24/7] (FFMPEG Undefined Error)
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+#EXTINF:-1 tvg-id="JBS.us",JBS (404p) [Not 24/7] (FFMPEG Undefined Error)
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="JBS.us",JBS (404p) [Not 24/7] (HTTP 408 Request Timeout)
+https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+#EXTINF:-1 tvg-id="JewelryTV.us",Jewelry Television (720p) (HTTP 404 Not Found)
+https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="JewelryTVExtra.us",Jewelry TV Extra (720p) (HTTP 404 Not Found)
+https://cdn3.wowza.com/1/NFJZMzNuclBoQ2pz/Q1FrME42/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="JohnnyCarsonTV.us",Johnny Carson TV (432p) (HTTP 403 Forbidden)
+https://johnnycarson-zype.amagi.tv/playlistR432p.m3u8
+#EXTINF:-1 tvg-id="LaRosadeGuadalupe.us",La Rosa de Guadalupe (HTTP 500 Internal Server Error)
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LawCrime.us",Law & Crime (720p) (HTTP 400 Bad Request)
+https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8
+#EXTINF:-1 tvg-id="LogosTV.us",Logos TV Mubasher (1080p) [Not 24/7] (HTTP 404 Not Found)
+https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/playlist.m3u8
+#EXTINF:-1 tvg-id="LogosTV.us",Logos TV Mubasher (1080p) [Not 24/7] (HTTP 404 Not Found)
+https://58cc65c534c67.streamlock.net/logoschannel.com/logoshym/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveWorldUSA.us",LoveWorld USA (720p) (HTTP 404 Not Found)
+https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/lwut/ngrp:lwu.rtmp_all/playlist.m3u8
+#EXTINF:-1 tvg-id="",MAVTV Motor Sports IN (HTTP 504 Gateway Timeout)
+https://84f081227bc1418984b9e3dcaa985b2b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_MAVTVMotorSportsNetwork/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCAmerica.us",MBC America (480p) (HTTP 403 Forbidden)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
+#EXTINF:-1 tvg-id="WSBSDT1.us",Mega TV (1080p) (FFMPEG Undefined Error)
+https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
+#EXTINF:-1 tvg-id="MTVClassicEast.us",MTV Classic (360p) (HTTP 404 Not Found)
+https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="NagoTV.us",Nago TV (240p) (HTTP 408 Request Timeout)
+https://lakay.online/public/nagotv/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="NASATV.us",NASA TV (720p) (HTTP 403 Forbidden)
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="NASATVISSViews.us",NASA TV ISS Views (480p) [Not 24/7] (FFMPEG Invalid Data)
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="",Nickelodeon Deutschland [Geo-blocked] (HTTP 403 Forbidden)
+https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+#EXTINF:-1 tvg-id="NoseyDivorceCourt.us",Nosey Divorce Court (720p) [Not 24/7] (HTTP 403 Forbidden)
+https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e76d1474f9020c06f9ee_all/playlist.m3u8
+#EXTINF:-1 tvg-id="NoseyJerrySpringer.us",Nosey Jerry Springer (HTTP 403 Forbidden)
+https://stitcheraws.unreel.me/wse-node04.powr.com/powr_480pt/ngrp:5eb1e7f848f1ff2e1d2555a2_all/playlist.m3u8
+#EXTINF:-1 tvg-id="NoseyJudgeKarensCourt.us",Nosey Judge Karen's Court (480p) (HTTP 403 Forbidden)
+https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e7261474f9020c06f9ec_all/playlist.m3u8
+#EXTINF:-1 tvg-id="NoseyMaury.us",Nosey Maury (HTTP 403 Forbidden)
+https://stitcheraws.unreel.me/wse-node04.powr.com/powr_480pt/ngrp:5eb1e88458ad7801fa2cfc2e_all/playlist.m3u8
+#EXTINF:-1 tvg-id="NoseySteveWilkos.us",Nosey Steve Wilkos (HTTP 403 Forbidden)
+https://stitcheraws.unreel.me/wse-node04.powr.com/powr_480pt/ngrp:5eb1e84c95ee0253b97679d7_all/playlist.m3u8
+#EXTINF:-1 tvg-id="OURTV.us",Opportunities in Urban Renaissance Television (OURTV) (720p) (HTTP 404 Not Found)
+https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/playlist.m3u8
+#EXTINF:-1 tvg-id="",Paragliding TV (HTTP 502 Bad Gateway)
+https://paraglidingtv.playout.vju.tv/paraglidingtv/main.m3u8
+#EXTINF:-1 tvg-id="PrescottValleyTV.us",Prescott Valley TV (HTTP 404 Not Found)
+https://live-h1.frontlayer.net/fl207891/live/chunks.m3u8
+#EXTINF:-1 tvg-id="RadioUTV.us",Radio U TV (720p) [Not 24/7] (HTTP 403 Forbidden)
+https://1826200335.rsc.cdn77.org/1826200335/index.m3u8
+#EXTINF:-1 tvg-id="RoyalTimeTelevision.us",Royal Time Television (1080p) (HTTP 404 Not Found)
+https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/index.m3u8
+#EXTINF:-1 tvg-id="SafeTV.us",SafeTV (1080p) (HTTP 408 Request Timeout)
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
+#EXTINF:-1 tvg-id="ShopHQ.us",Shop HQ (720p) (HTTP 404 Not Found)
+https://aos01-evine.secure.footprint.net/evine/cleanfeed/master.m3u8
+#EXTINF:-1 tvg-id="TBNAsia.us",TBN Asia (360p) (FFMPEG Undefined Error)
+http://210.210.155.37/qwr9ew/s/s39/index.m3u8
+#EXTINF:-1 tvg-id="TBNUkraine.us",TBN Украина (720p) (HTTP 408 Request Timeout)
+http://62.32.67.187:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TheFirstTV.us",The First (1080p) (FFMPEG Invalid Data)
+https://thefirst-distroscale.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="TheNowNetwork.us",The Now Network (480p) [Not 24/7] (HTTP 404 Not Found)
+https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
+#EXTINF:-1 tvg-id="TheSoutheasternChannel.us",The Southeastern Channel (540p) (HTTP 408 Request Timeout)
+http://147.174.13.196/live/live.m3u8
+#EXTINF:-1 tvg-id="3ABNEnglish.us",Three Angels Broadcasting Network English (3ABN) (720p) (FFMPEG Streams Not Found)
+https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
+#EXTINF:-1 tvg-id="3ABNFrench.us",Three Angels Broadcasting Network French (3ABN) (720p) (FFMPEG Streams Not Found)
+https://3abn-live.akamaized.net/hls/live/2010546/French/master.m3u8
+#EXTINF:-1 tvg-id="3ABNInternational.us",Three Angels Broadcasting Network International (3ABN) (720p) (FFMPEG Streams Not Found)
+https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
+#EXTINF:-1 tvg-id="3ABNKids.us",Three Angels Broadcasting Network Kids Network (3ABN) (720p) (FFMPEG Streams Not Found)
+https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
+#EXTINF:-1 tvg-id="3ABNLatino.us",Three Angels Broadcasting Network Latino (3ABN) (720p) (HTTP 404 Not Found)
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/playlist.m3u8
+#EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us",Three Angels Broadcasting Network Praise Him Music Network (3ABN) (720p) (FFMPEG Streams Not Found)
+https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
+#EXTINF:-1 tvg-id="TODAYTV.us",Today TV (720p) (HTTP 404 Not Found)
+https://todayhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TVSFilmNoirNetwork.us",TVS Film Noir Network (720p) (HTTP 500 Internal Server Error)
+https://bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8
+#EXTINF:-1 tvg-id="TVSPinballNetwork.us",TVS Pinball Network (480p) (FFMPEG Invalid Data)
+https://bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-id="TVSSportsBureau.us",TVS Sports Bureau (720p) (HTTP 404 Not Found)
+https://bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 tvg-id="VallenatoInternacional.us",Vallenato Internacional (720p) [Not 24/7] (HTTP 404 Not Found)
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1 tvg-id="VBSTV.us",VBS TV (480p) [Not 24/7] (HTTP Connection Reset)
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
