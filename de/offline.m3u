@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="123tv.de",1-2-3 TV (270p) (FFMPEG Undefined Error)
+https://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1 tvg-id="3sat.de",3sat (720p) [Geo-blocked] (HTTP 403 Forbidden)
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 tvg-id="AdriaMusicTelevision.de",ADRIA Music (1080p) (FFMPEG Invalid Data)
+https://cdne.folxplay.tv/folx-trz/streams/ch-1/master.m3u8
+#EXTINF:-1 tvg-id="ANIMALKINGDOM.de",ANIMAL KINGDOM (720p) (HTTP Connection Reset)
+https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
+#EXTINF:-1 tvg-id="arte.de",ARTE (720p) [Geo-blocked] (HTTP 403 Forbidden)
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1 tvg-id="BadenTV.de",Baden TV (1080p) [Not 24/7] (FFMPEG Undefined Error)
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 tvg-id="BadenTV.de",Baden TV (1080p) [Not 24/7] (FFMPEG Undefined Error)
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BadenTV.de",Baden TV (1080p) [Not 24/7] (HTTP 408 Request Timeout)
+https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BadenTVSud.de",Baden TV Süd (480p) (HTTP 408 Request Timeout)
+https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BRFernsehenNord.de",BR Fernsehen Nord (720p) (FFMPEG Undefined Error)
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
