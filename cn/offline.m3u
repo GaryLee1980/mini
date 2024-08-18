@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AndoTV.cn",Ando TV (576p) (HTTP 500 Internal Server Error)
+http://119.1.122.186:4022/rtp/238.255.2.189:5999
+#EXTINF:-1 tvg-id="",Ankang TV-1 News [Geo-blocked] (HTTP 408 Request Timeout)
+http://124.47.34.186/PLTV/88888888/224/3221225855/index.m3u8
+#EXTINF:-1 tvg-id="",Beijing Traffic Radio TV [Geo-blocked] (HTTP 408 Request Timeout)
+http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="",Beijing Youth Radio [Geo-blocked] (HTTP 408 Request Timeout)
+http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="",BesTV超级 (576p) (HTTP 408 Request Timeout)
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
+#EXTINF:-1 tvg-id="BRTVKakuChildrensChannel.cn",BRTV Kaku Childrens Channel (HTTP 408 Request Timeout)
+http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn",CCTV-1 (1080p) (HTTP 408 Request Timeout)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn",CCTV-1 (1080p) (HTTP 408 Request Timeout)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
