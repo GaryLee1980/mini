@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="青海卫视",青海卫视
-http://stream.qhbtv.com/qhws/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS news",CBS news
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="PBSEast.us",PBS National East (1080p) [Geo-blocked]
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 tvg-id="PBSWest.us",PBS National West (1080p) [Geo-blocked]
